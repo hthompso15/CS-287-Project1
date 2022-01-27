@@ -1,0 +1,3900 @@
+message,action
+What time is it?,TIME
+Can you give me the time?,TIME
+Can you tell me the time?,TIME
+Time?,TIME
+What's the time?,TIME
+I need the time,TIME
+Time please,TIME
+What's on the clock?,TIME
+What does the clock say?,TIME
+Do you have time?,TIME
+Have you got the time?,TIME
+"Excuse me, could you tell me what time it is, please?",TIME
+I need the time right now,TIME
+can you order me a pizza?,PIZZA
+I would love a large cheese pizza please.,PIZZA
+Order a pizza ASAP,PIZZA
+Order me a pizza pie,PIZZA
+"Get me a cheese pizza, extra sauce",PIZZA
+Pizza time,PIZZA
+Pizza for everyone,PIZZA
+Pizza now!,PIZZA
+I'd like to order a pizza please.,PIZZA
+Place a pizza order in 20 minutes,PIZZA
+Place an order from Dominos,PIZZA
+Phone Pizza Hut and order two pizzas. One is for you!,PIZZA
+Hi there,GREET
+Hello,GREET
+Howdy,GREET
+Hi,GREET
+Yo,GREET
+Greetings,GREET
+What's up?,GREET
+Heyyy,GREET
+Hola,GREET
+What's new?,GREET
+What are you up to?,GREET
+How have you been?,GREET
+How are you doing?,GREET
+What's new? Have you tried the new pizza restaurant that just opened?,GREET
+How's the weather?,WEATHER
+What's the current weather?,WEATHER
+Are we getting any rain?,WEATHER
+Is the weather bad now?,WEATHER
+Is the weather lovely outside?,WEATHER
+Is is raining?,WEATHER
+Tell me the current weather please.,WEATHER
+Can you tell me what the weather is like?,WEATHER
+What is the weather like?,WEATHER
+Is it snowing?,WEATHER
+Is today hot or cold?,WEATHER
+What's it like outside?,WEATHER
+Tell me a joke.,JOKE
+Can you give me a joke?,JOKE
+What is a good joke?,JOKE
+I want to hear a joke.,JOKE
+I want a bad joke.,JOKE
+Give me a pizza joke.,JOKE
+Joke please!,JOKE
+Do you know any dad jokes?,JOKE
+What is your favorite joke?,JOKE
+"Ok Jarvis, tell me a joke. ",JOKE
+Tell me a really really bad joke.,JOKE
+Do you have a funny joke?,JOKE
+Yo,JOKE
+Get a pizza with pepperoni and sausage,WEATHER
+Whatâ€™s the weather like today?,JOKE
+letâ€™s hear a joke,PIZZA
+Hi,GREET
+Whatâ€™s the temperature?,JOKE
+Good morning,WEATHER
+Letâ€™s order some pizza,WEATHER
+"""Jarvis, get ten pizzas",PIZZA
+Iâ€™m hungry for pizza,PIZZA
+Howâ€™s it going,TIME
+Get a pizza here by 8.,GREET
+Whatâ€™s going on?,WEATHER
+order 20 pizzas for scraps,PIZZA
+what up,TIME
+Whatâ€™s up,GREET
+Hello,TIME
+Hey.,TIME
+When is it?,PIZZA
+letâ€™s hear a good one.,WEATHER
+tell us a zinger,GREET
+Get some pizza here,WEATHER
+Any idea what time it is?,JOKE
+Is it cloudy?,PIZZA
+Order some pizza,JOKE
+Tell me a joke.,PIZZA
+Could you order some pizza?,JOKE
+Could you tell me the time?,PIZZA
+Howâ€™s your day going?,GREET
+What time is it?,GREET
+Do you know any good jokes?,GREET
+Can you tell me the time,TIME
+What time do you have?,TIME
+Will it snow tonight?,GREET
+Do you have the time?,PIZZA
+Tell me something funny,GREET
+Please order a pizza.,PIZZA
+Can you get a pizza delivered,GREET
+Is it hot outside today?,TIME
+Do I need an umbrella?,WEATHER
+Tell us a knock-knock joke.,JOKE
+weather check,WEATHER
+is it raining?,WEATHER
+hey,GREET
+current weather please jarvis,WEATHER
+throw me a joke,JOKE
+Tell me a joke about a good time you had,JOKE
+Jarvis what is the time?,TIME
+eyy what's up chief,GREET
+is it cold outside Jarvis,WEATHER
+"""Get me some pizza, right now Jarvis!",PIZZA
+Jarvis what time is it?,TIME
+can you check the humidity for me Jarvis?,WEATHER
+Jarvis please print the system time,TIME
+Jarvis order me a large cheese,PIZZA
+tell me a joke,JOKE
+what is the temperature,WEATHER
+what is the present time?,TIME
+give me a good knee slapper,JOKE
+I wanna laugh,JOKE
+tell me the time jarvis,TIME
+Hi Jarvis,GREET
+make me giggle,JOKE
+call in me a whole large pie with anchovies jarvis,PIZZA
+what's presently on the clock,TIME
+what's the weather like today Jarvis?,WEATHER
+what's up,GREET
+Time check Jarvis!,TIME
+Jarvis order me some za,PIZZA
+tell me a good pun,JOKE
+what's it like outside?,WEATHER
+Jarvis please check the clock,TIME
+what time does your brain think it is?,TIME
+pizza now,PIZZA
+Hey Jarvis,GREET
+Jarvis order me some Leonardo's,PIZZA
+tell me something that will make me lol,JOKE
+Jarvis order me a tomato pie,PIZZA
+how has your day been Jarvis?,GREET
+check the weather Jarvis,WEATHER
+Tell me a jest,JOKE
+jarvis current time please,TIME
+Jarvis please order a large veggie,PIZZA
+good morning,GREET
+can you get a pepperoni pizza,PIZZA
+order a pizza,PIZZA
+how does the weekend look,WEATHER
+knock knock,JOKE
+good afternoon,GREET
+what does the clock show,TIME
+what is it like outside,WEATHER
+jarvis would you split a pizza with me? we can get a flatbread,PIZZA
+hello jarvis,GREET
+how are you?,GREET
+greetings,GREET
+i'd like to order a sausage and mushroom pizza,PIZZA
+how long has it been?,TIME
+what's up?,GREET
+hi there jarvis,GREET
+is it a.m. or p.m. right now,TIME
+can you order an extra large cheese pizza,PIZZA
+tell me the weather,WEATHER
+why did the chicken cross the road?,JOKE
+pizza,PIZZA
+do your best stand-up comedy,JOKE
+time,TIME
+how is it going?,GREET
+is it snowing at the moment,WEATHER
+what time is it right now,TIME
+say something humorous,JOKE
+is it snowing,WEATHER
+what time is it?,TIME
+what is the weather,WEATHER
+is it going to be sunny or cloudy today?,WEATHER
+is it raining,WEATHER
+be a comedian,JOKE
+how much time do i have,TIME
+hello jarvis,GREET
+how does the weather look,WEATHER
+tell me a joke,JOKE
+good evening,GREET
+get me a pizza please,PIZZA
+how many hours and minute have passed,TIME
+what time is on the clock,TIME
+get some pizza for me,PIZZA
+call for pizza and get me one with extra cheese,PIZZA
+"""let's get some pizza, beer, and wings for the game",PIZZA
+"""forecast please, jarvis",GREET
+I'd like a pizza for take-out,JOKE
+what's the forecast?,GREET
+How warm will it be?,JOKE
+What's the weather today?,JOKE
+"""Jarvis, what's the time?",WEATHER
+Tell me a joke,WEATHER
+What's it like outside?,WEATHER
+What's the temperature?,TIME
+I need a laugh,JOKE
+can you tell me the time?,GREET
+"""Jarvis, order me a pizza",JOKE
+weather please,WEATHER
+How late is it?,PIZZA
+"""Jarvis, do you know the time?",TIME
+I'm going to need takeout,GREET
+Good morning,TIME
+Good to see you jarvis,TIME
+I'd like to order a pizza,TIME
+Well hello jarvis,PIZZA
+time please,WEATHER
+good afternoon,TIME
+"""Hi, jarvis",TIME
+"""Make me laugh, jarvis",GREET
+Hey jarvis,GREET
+cheer me up jarvis,PIZZA
+What time is it?,PIZZA
+"""Jarvis, know any good jokes?",PIZZA
+"""Tell a joke, jarvis",WEATHER
+How early is it?,JOKE
+"""The usual for dinner, jarvis",PIZZA
+"""I'm hungry, order some food",GREET
+I want take-out tonight,WEATHER
+Is it raining?,WEATHER
+"""jarvis, place an order for pizza",PIZZA
+Is it going to rain today?,PIZZA
+I could use a laugh,WEATHER
+Hello,JOKE
+Jarvis,GREET
+How has thing been these days?,WEATHER
+I want a pizza for here.,PIZZA
+What about giving us a joke?,WEATHER
+How are you?,TIME
+Is it hot now?,PIZZA
+How is it going?,JOKE
+Can I order a pizza for delivery?,GREET
+May I ask the time?,WEATHER
+How do you do?,PIZZA
+Why donâ€™t you tell a joke to have fun?,JOKE
+Is it cloudy now?,PIZZA
+Whatâ€™s the weather like now?,WEATHER
+What temperature is it now?,WEATHER
+"""Iâ€™m after a pizza, please.",TIME
+Whatâ€™s the joke for today?,TIME
+Howâ€™s the weather now?,PIZZA
+What time have you got?,GREET
+Can you tell me what time it is?,GREET
+Pan pizza is my cup of tea.,JOKE
+I like fruit on my pizza.,GREET
+Have you got the time?,TIME
+What time is it?,TIME
+Is it raining now?,WEATHER
+"""Tell me a joke, please.",JOKE
+Would you mind telling a joke?,JOKE
+Merry Christmas!,GREET
+Which kind do you want?,PIZZA
+How is your study?,GREET
+How have you been?,GREET
+What time is it?,TIME
+"""What is the correct time, please?",TIME
+How about the weather now?,WEATHER
+What size would you like?,PIZZA
+Why not tell a joke?,JOKE
+What time is it?,TIME
+Can you give us a joke to entertain us?,JOKE
+How about telling a joke?,JOKE
+Will you please tell a joke now?,JOKE
+A small pizza is enough.,PIZZA
+Can you tell me a joke?,JOKE
+How do you feel today?,GREET
+"""I would like thin crust, please.",PIZZA
+Could you tell me the time?,TIME
+Is it snowing now?,WEATHER
+how long before i should go to bed if i want to be remotely healthy,TIME
+could you tell me a joke,JOKE
+you up?,GREET
+how long has it been since i last slept,TIME
+i'm totally out of jokes,JOKE
+do you know the time,TIME
+can you tell me a joke,JOKE
+i'd like to laugh right now,JOKE
+will it snow today?,WEATHER
+sup,GREET
+what time is it?,TIME
+how long has it been since i woke up,TIME
+good day,GREET
+i'd like to order a pizza,PIZZA
+how about some circular pies,PIZZA
+how am i doing on time,TIME
+how hot is it,WEATHER
+am i late,TIME
+do you even have a sense of humor,JOKE
+good morning,GREET
+how cold is it,WEATHER
+hey how you doing,GREET
+can i get a pizza,PIZZA
+hey,GREET
+hi jarvis,GREET
+should i get to class soon,TIME
+good evening,GREET
+could I bother you for the time,TIME
+i need some circular pies,PIZZA
+i need some cheesiness in my life,PIZZA
+quick i need a joke,JOKE
+good afternoon,GREET
+let's put in an order for some pizza,PIZZA
+i need a new joke,JOKE
+what's the weather like,WEATHER
+is it windy,WEATHER
+i need to hear something funny,JOKE
+there once was a man from,JOKE
+When should I pick up my pizza?,PIZZA
+Is it warm outside?,WEATHER
+What's up?,GREET
+Hello,GREET
+How was your day?,GREET
+Tell me what time it is,TIME
+Why did the chicken cross the road,JOKE
+How are you?,GREET
+Hello!,GREET
+How long until it will be ready,PIZZA
+Is it sunny outside?,WEATHER
+Good afternoon,GREET
+How do you know if there is an elephant underneath your bed,JOKE
+done,WEATHER
+Howdy,GREET
+done,GREET
+How many does it take to,JOKE
+What do you call a bear with no teeth,JOKE
+How are you?,GREET
+Is it cold out?,WEATHER
+Is it warmer than 65 out?,WEATHER
+turn the clock back an hour please,TIME
+I'll have my pizza with ham and pineapple please,PIZZA
+walk into a bar,JOKE
+I'd like an extra large pizza with stuffed crust and sausage,PIZZA
+What is the difference between,JOKE
+can i pick up a pizza in thirty minutes please,PIZZA
+When is the sunrise and sunset?,TIME
+I'd like a large cheese pizza!,PIZZA
+id like to order a supreme pizza please,PIZZA
+how many minutes until eleven,TIME
+What's up my dude?,GREET
+Do I need an umbrella?,WEATHER
+Is it shorts weather?,WEATHER
+does pineapple cost extra?,PIZZA
+yo mama was,JOKE
+is it dark outside?,WEATHER
+what is the current hour,TIME
+give me the time,TIME
+is it safe to drive outside tonight,WEATHER
+How can I help you today?,GREET
+What are you up to?,GREET
+Do you make supreme pizzas?,PIZZA
+How much has it snowed in the past 24 hours?,WEATHER
+"Time, please!",TIME
+Good evening,GREET
+Sup?,GREET
+How much for extra toppings?,PIZZA
+Show me the forecast,WEATHER
+"I'd like sausage, pepperoni, and olives on my personal pizza",PIZZA
+could i buy garlic knots with my pizza,PIZZA
+Should I wear sunscreen?,WEATHER
+how late am i,TIME
+Sup,GREET
+What has four wheels and flies,JOKE
+how early is my alarm,TIME
+show me a clock,TIME
+Is it sunny outside?,WEATHER
+greetings,GREET
+Good afternoon,GREET
+Can I get a large cheese pizza to go?,PIZZA
+Knock knock,JOKE
+Do you have the time?,TIME
+Should i wear shorts or pants,WEATHER
+have you heard the one about,JOKE
+Hey!,GREET
+have you heard the one about the,JOKE
+Set an alarm for 8:30,TIME
+Top of the morning to you!,GREET
+How's it hanging?,GREET
+What's up?,GREET
+How is it outside?,WEATHER
+Done,WEATHER
+There once was a man from,JOKE
+I'd like to order a pizza for delivery,PIZZA
+Should i ski this weekend,WEATHER
+I'll take the largest pan pizza you got,PIZZA
+How late is it,TIME
+What time is it?,TIME
+How are you feeling?,GREET
+Good morning,GREET
+What do you call a,JOKE
+Will it snow tonight?,WEATHER
+how long until my next meeting,TIME
+Show me what time it is,TIME
+Can you tell me the time?,TIME
+I want to go for a run.  What do you think Jarvis?,TIME
+I need you to order something fast to eat,JOKE
+how cold is it out?,JOKE
+I need to know the time,PIZZA
+hi!,JOKE
+do you know any good jokes?,TIME
+hola,GREET
+please place an order,TIME
+make me laugh!,PIZZA
+lets order another,GREET
+give me the time,TIME
+I would like some dinner,JOKE
+greetings,WEATHER
+hey!,JOKE
+is it going to rain?,PIZZA
+hello,WEATHER
+whats it going to be like for my trip?,WEATHER
+give us a joke!,TIME
+hello!,JOKE
+how windy is it?,WEATHER
+give me your best joke,TIME
+Its time to eat!,PIZZA
+I'd like a pizza pie,TIME
+order pizza right now,TIME
+what time zone are you in Jarvis?,TIME
+what are your fav jokes,GREET
+hello my friend!,GREET
+make me laugh!,JOKE
+I would like to laugh,JOKE
+good to see you!,JOKE
+give me your best jokes,GREET
+when are we going to see sun again?,GREET
+hello,TIME
+what's your best joke?,GREET
+hiya,WEATHER
+"""make me laugh, Jarvis!",PIZZA
+I need to know what time it is,WEATHER
+what time is it?,GREET
+hi!,GREET
+"""I need something easy for dinner, what do you recommend?",WEATHER
+please order me some food,GREET
+what would you do if you could turn back time?,GREET
+hey buddy!,PIZZA
+I am super hungry,JOKE
+"""Jarvis, please an order for take out",PIZZA
+make us laugh Jarvis!,PIZZA
+it is almost bedtime?,JOKE
+do you know any jokes?,WEATHER
+I want to know the time,WEATHER
+yooohooo!,JOKE
+What is it like in Vermont today?,WEATHER
+"""make me laugh, Jarvis!",GREET
+am I late?,JOKE
+lets get some pizza,JOKE
+do you know anything funny,TIME
+tell me something funny,JOKE
+"""Jarvis, pizza please!",WEATHER
+whats up buttercup?,PIZZA
+"""Jarvis, tell me a joke!",JOKE
+what's the time?,PIZZA
+tell me something that will make me laugh,JOKE
+how about you order us a pizza,WEATHER
+what time is it?,GREET
+order a pizza jarvis!,JOKE
+I'd like to eat something tasty.  Order a pizza!,JOKE
+dude,PIZZA
+hellloooo!,WEATHER
+place an order for pizza,JOKE
+lets order a pizza,GREET
+what does the radar say?,TIME
+what does the clock say?,PIZZA
+tell me a good joke!,JOKE
+I am feeling sad,PIZZA
+time,WEATHER
+how cold will it get today?,JOKE
+do you know any knock knock jokes?,PIZZA
+tell me something funny,WEATHER
+when are the kids getting home?,TIME
+tell us a joke,WEATHER
+get me some pizza,GREET
+whats the story morning glory?,PIZZA
+I would love a pizza,GREET
+can you tell time?,PIZZA
+lets order pizza,WEATHER
+I am dying for a pizza tonight,PIZZA
+can you read the clock?,TIME
+tell me the time,GREET
+how windy is it?,WEATHER
+helllllloooooo,GREET
+"""Jarvis, would you please order me a pizza?",PIZZA
+how windy is it going to be tomorrow?,WEATHER
+order me a pizza,PIZZA
+how about you tell me a joke?,JOKE
+what is the weather like today?,PIZZA
+I need to know if I am going to be late for my meeting.  Tell me the time right now.,TIME
+welcome,GREET
+"""Jarvis, tell me a joke",JOKE
+what does the clock say?,JOKE
+give me the time,WEATHER
+tell me the time,WEATHER
+I need to laugh today,PIZZA
+do you know knock knock jokes?,WEATHER
+when do I need to be there?,JOKE
+order a large pizza please,TIME
+tell me something funny,WEATHER
+hola,PIZZA
+do you know any good jokes?,GREET
+hola!,GREET
+hi!!!,TIME
+tell the time,JOKE
+make us laugh!,WEATHER
+can you see the clock?,WEATHER
+hola!,GREET
+what time is it?,TIME
+hiya,GREET
+Jarvis tell me the weather,GREET
+when are you going to place my order?,TIME
+hiya,JOKE
+I need to know the weather next week,JOKE
+what kind of weather will my mom have on her drive here?,WEATHER
+hey hey,WEATHER
+hello,WEATHER
+do you know any good take out spots?,TIME
+what is the chance of precipitation tomorrow?,TIME
+I would like to eat,TIME
+do you know the time?,PIZZA
+what is the high temp today?,PIZZA
+greetings!,TIME
+when do we fall back?,JOKE
+lets order a pizza for dinner,WEATHER
+welcome,PIZZA
+do I need my umbrella?,PIZZA
+I want a pizza,WEATHER
+what is it like in San Diego today?,PIZZA
+welcome!,TIME
+what does the forecast look like?,GREET
+"""my sister in law is great at jokes, are you?",GREET
+what time is it?,WEATHER
+yo!,TIME
+whats in store for today's forecast?,JOKE
+get me a pizza pronto,GREET
+fall backward,WEATHER
+lets get something easy,GREET
+what are your favorite jokes,JOKE
+should I wear shorts?,TIME
+when will it rain next?,GREET
+yo!,JOKE
+can you tell me how cold it is?,TIME
+call dominoes,JOKE
+is it stormy out?,WEATHER
+feed me!,JOKE
+lets order a pizza,TIME
+tell me what the weather is going to be like today,GREET
+bonjour,JOKE
+bonjour!,GREET
+how should I dress today?,WEATHER
+what is the 5-day forecast?,PIZZA
+lets order pizza!,GREET
+when is daylight savings time?,PIZZA
+when is dinner tonight?,GREET
+how hot is it?,TIME
+check the time,TIME
+hows the forecast for the weekend?,TIME
+place an order for a large pizza,GREET
+I am hungry,TIME
+I need something easy for dinner tonight,PIZZA
+are there any local pizza places that deliver?,JOKE
+what is the low temp tomorrow,TIME
+is it too cold to walk outside today?,TIME
+am I late?,PIZZA
+hello,PIZZA
+"""can you tell time, Jarvis?",WEATHER
+what does the clock say?,JOKE
+place an order for pizza Jarvis,GREET
+welcome,PIZZA
+welcome!,JOKE
+how are you?,GREET
+give me something funny,GREET
+hiya,WEATHER
+its been a while,GREET
+can you tell me a joke?,WEATHER
+"""Jarvis, do you know any good jokes?",JOKE
+tell me something funny!,PIZZA
+do I have any coupons?,GREET
+tell me something funny,PIZZA
+hey,JOKE
+"""lets hear a joke, Jarvis!",GREET
+what's up buttercup?,JOKE
+I'm craving a pizza,TIME
+"""mmm, I am hungry",WEATHER
+I am starving,GREET
+"""well, hello",WEATHER
+how late am I?,JOKE
+order some pizza!,PIZZA
+is it going to snow today?,PIZZA
+what is the high temperature tomorrow?,JOKE
+when does it get dark out?,WEATHER
+"""dude, say something funny",PIZZA
+I'm feeling bummed out.  Tell me a joke,GREET
+do you know how to tell time?,PIZZA
+is it cold today?,TIME
+I need to hear a joke right about now,GREET
+is it snowing?,TIME
+its been a freaking rough day,JOKE
+what's it like out?,JOKE
+whats the forecast?,TIME
+tell me a joke,JOKE
+give us a joke,TIME
+is it going to snow tomorrow?,PIZZA
+what you do think about pizza for lunch?,PIZZA
+tell me the time,GREET
+hi,GREET
+do you know any funny jokes?,PIZZA
+is it sweater weather?,PIZZA
+hi,WEATHER
+get me a pizza pie now,PIZZA
+order pizza,TIME
+welcome,WEATHER
+do I need an umbrella?,WEATHER
+give me the weather update,GREET
+it feels so raw out,TIME
+what's the temp out?,WEATHER
+can you tell me the time right now?,TIME
+what is the low temperature tomorrow?,WEATHER
+how long is class?,TIME
+"""hey, do you know the time?",GREET
+hi,PIZZA
+hi!,WEATHER
+"""Jarvis, do you have any good jokes?",PIZZA
+come esta,TIME
+hey!,PIZZA
+how long is my appt?,TIME
+welcome,PIZZA
+what's it like out today?,JOKE
+I am hungry and want dinner,PIZZA
+what's the weather going to be like tomorrow?,PIZZA
+make me laugh out loud!,GREET
+"""Jarvis, give me the weather update!",GREET
+give me the time,TIME
+give me some good jokes,WEATHER
+I need to know the time,TIME
+Do you know any jokes?,GREET
+I am feeling like pizza tonight,WEATHER
+do you have the time?,TIME
+time?,TIME
+get pizza delivered.,PIZZA
+can you make me laugh?,JOKE
+do you know any good jokes?,JOKE
+should i go outside?,WEATHER
+order some pizza.,PIZZA
+"""hi, jarvis.",GREET
+hello?,GREET
+how's the weather out there?,WEATHER
+i could use a good laugh.,JOKE
+is it time to go?,TIME
+order me some pizza.,PIZZA
+what's the time?,TIME
+how's the weather?,WEATHER
+is the weather nice?,WEATHER
+hello!,GREET
+"""hey, jarvis.",GREET
+what's it like outside?,WEATHER
+what's the hour?,TIME
+will the weather be bad?,WEATHER
+"""how's it going, jarvis?",GREET
+what's the weather like?,WEATHER
+a pizza would be nice.,PIZZA
+how are you?,GREET
+what time is it?,TIME
+"""tell me something funny, jarvis.",JOKE
+is it time to go to bed?,TIME
+should i go out today?,WEATHER
+do you know the time?,TIME
+"""show me a joke, jarvis.",JOKE
+"""greetings, jarvis.",GREET
+"""cheese and pepperoni pizza, please!",PIZZA
+is it time for bed?,TIME
+get some pizza for me.,PIZZA
+do you know any jokes?,JOKE
+will it rain today?,WEATHER
+I will die of laughter. It is lame joke but funny.,JOKE
+Hey what's up?,GREET
+I am making pizza tonight. come over.,PIZZA
+It is beautiful out there. Let's go and get lost in mountains,WEATHER
+It is high time we part our ways.,TIME
+just put a pizza in the oven.,PIZZA
+what temperature is it in burlington?,WEATHER
+"Sicilian pizza, sausage pizza",PIZZA
+I love snow because it all looks magical.,WEATHER
+do not make a joke out of yourself.,JOKE
+stop being a joke. It is not funny.,JOKE
+ha-ha so pathetically gunny,JOKE
+different people have different ways of making pizza.,PIZZA
+calzone is also a type of pizza.,PIZZA
+time is not on my side,TIME
+tell me a good joke because I want to laugh,JOKE
+I don't like dark humor.,JOKE
+make jokes; talk humorously or flippantly.,JOKE
+wanna go out and get some pizza,PIZZA
+It is raining,WEATHER
+lovely sunshine covering my room,WEATHER
+it was this weather that made her cranky.,WEATHER
+good afternoon,GREET
+namasty,GREET
+"anything with chicken, cheese, sauce, more cheese looks the same.",PIZZA
+have you tried deep dish pizza?,PIZZA
+this time she got a hat for me,TIME
+"it is going to be foggy, hot, sunny, rainy all in one day.",WEATHER
+time is money. value it.,TIME
+I meant funny,JOKE
+tell me something to light up my mood.,JOKE
+I just can't stand this hot weather anymore.,WEATHER
+"good evening, good night",GREET
+"Hi, how are you",GREET
+let's try giardano's flatbread today,PIZZA
+a trick played on someone for fun.,JOKE
+tell me more about weather,WEATHER
+take care,GREET
+You'd better not go out in this cold weather.,WEATHER
+comeon. pizza is always a good idea.,PIZZA
+It is nice to see you today,GREET
+do you need time away from me?,TIME
+stay warm. It is going to be cold.,WEATHER
+It is high time that we break up.,TIME
+have a good day,GREET
+people are going to laugh regardless. live life.,JOKE
+Let's go to beach. It is our day,WEATHER
+it is very humid these days,WEATHER
+let's play halloween pranks on students,JOKE
+pizzeria. Let's go get manhattan,PIZZA
+pizza is always a good idea.,PIZZA
+good morning,GREET
+I am just kidding.,JOKE
+when do you want to go for movie?,TIME
+do check weather forecast before going out,WEATHER
+How have you been?,GREET
+humor is always a good idea.,JOKE
+time and again I have told you this.,TIME
+Why don't we go out for pizza tonight?,PIZZA
+It takes some time to wrap your head around,TIME
+OMG he was so funny,JOKE
+Hi!,WEATHER
+It's a beautiful day for a walk,GREET
+a small 6'' vegetarian pizza please,GREET
+a large 14'' beef green pepper please,TIME
+what's it like outside,GREET
+order a pizza for me,JOKE
+what's the forecast today?,PIZZA
+Is it hot today?,GREET
+tell me a joke,JOKE
+what's your favorite joke?,PIZZA
+what joke do you know?,TIME
+greetings!,WEATHER
+joke time!,TIME
+I would like a chicken BBQ pizza,JOKE
+joke me,JOKE
+How's the weather today,PIZZA
+show me the time,GREET
+what's the time now,JOKE
+Hey!,PIZZA
+Hello!,TIME
+Is it cold outside?,WEATHER
+"""a joke, please",TIME
+Feeling good today?,WEATHER
+Is it 9 AM now?,GREET
+it's rainy,TIME
+good to see you jarvis,PIZZA
+what time is it?,PIZZA
+good day,WEATHER
+How are you today?,JOKE
+Do you have a watch?,PIZZA
+tell me the time,GREET
+I want a pizza,WEATHER
+current time,WEATHER
+a pizza please,TIME
+order me a pizza with random flavor,TIME
+give me a pizza,PIZZA
+Can you cheer me up?,JOKE
+What did the fish say when it ran into a concrete wall?  Dam!,JOKE
+Puns are my favorite kind of jokes!,JOKE
+I'm feeling sad.,JOKE
+Heard any good jokes lately?,JOKE
+Is it going to be sunny tomorrow?,WEATHER
+Is it going to be cloudy tomorrow?,WEATHER
+You're looking good today.,GREET
+Did you hear the one about the priest and the rabbi?,JOKE
+What day of the week is it?,TIME
+Is it after noon yet?,TIME
+Can you please order me a pizza?,PIZZA
+Welcome to the channel,GREET
+Positive Pie has the best pizza - can you order me a bbq chicken and a pepperoni slice?,PIZZA
+Are the roads going to be icy on the way home?,WEATHER
+What's the best place to get a pizza in Montpelier?,PIZZA
+What should I eat for lunch?,PIZZA
+Tell us a knock-knock joke.,JOKE
+Lets start by introducing ourselves,GREET
+"Sorry, I can't talk now - I'm too busy",GREET
+Are you funny?,JOKE
+What's a funny story?,JOKE
+What is the date today?,TIME
+What's the weather forecast going to be tomorrow?,WEATHER
+I'd like a pizza with ham and pineapple please.,PIZZA
+Is it going to turn to freezing rain later?,WEATHER
+What is the current hour and minute?,TIME
+"Hello, and a good morning to you too!",GREET
+Is it going to snow tonight?,WEATHER
+Please place an order for six pepperoni pizzas.,PIZZA
+When is it?,TIME
+Is it going to be windy today?,WEATHER
+Hi everyone.,GREET
+I need a good laugh right now.,JOKE
+What is the current time?,TIME
+Tell  me the time.,TIME
+Welcome to the meeting.  Everyone say hi.,GREET
+"Alright, who wants to start the introductions?",GREET
+What time is it right now?,TIME
+Who is hungry?,PIZZA
+Is it going to be cold today?,WEATHER
+I'm hungry.,PIZZA
+Is it almost time to go home?,TIME
+what is a funny joke,TIME
+Why are jokes funny,WEATHER
+How cold is it today?,PIZZA
+What is the weather for the next week?,GREET
+How much time is in a day?,JOKE
+Hey JARVIS,WEATHER
+What should I have for lunch?,GREET
+Pepperoni is your favorite,JOKE
+YO JARVIS whats up,WEATHER
+Is it snowing?,TIME
+what is the funniest thing or joke,PIZZA
+Is it going to be hot or cold?,TIME
+How's it going JARVIS?,TIME
+What time should I head to school?,TIME
+How much time is left?,WEATHER
+do funny joke make people laugh,GREET
+How much time left in the hour?,GREET
+How much time left in the day?,PIZZA
+What time is it?,GREET
+Is the weather really cold?,PIZZA
+What is the best weather?,WEATHER
+What is your favorite pizza?,PIZZA
+How is your day going JARVIS?,GREET
+pizza topping's make it better,PIZZA
+What is up!,TIME
+what is funny JARVIS,TIME
+Hi Jarvis,JOKE
+What is the hour?,WEATHER
+What is the weather outside?,TIME
+Pizza is what you should eat,GREET
+How much time is in a day?,TIME
+What's Up JARVIS,JOKE
+should you have pizza for lunch or dinner?,WEATHER
+Pizza is my favorite food,GREET
+Hey there JARVIS,PIZZA
+How is the weather today?,WEATHER
+I want to laugh!,JOKE
+how cold is it?,WEATHER
+Yo Jarvis!,GREET
+Pizza please!,PIZZA
+hola,GREET
+Give me the time,TIME
+Give me a joke,JOKE
+Hello Jarvis!,GREET
+hey jarv,GREET
+tell me the time,TIME
+What is the temperature?,WEATHER
+Hello!,GREET
+Can you tell me what time it is?,TIME
+Please order me a pizza!,PIZZA
+Show me the TIME,TIME
+sup,GREET
+Say something funny!,JOKE
+How are you?,GREET
+Order a pizza,PIZZA
+Time please!,TIME
+Hello Jarvis!,GREET
+Jarvis what joke's can you tell me?,JOKE
+Can you tell me a Joke?,JOKE
+Is it raining today?,WEATHER
+What's the weather?,WEATHER
+Make me laugh,JOKE
+time please,TIME
+Can you deliver me a pizza?,PIZZA
+I want the Time,TIME
+what's up,GREET
+Can you send me a joke?,JOKE
+What is the weather like today?,WEATHER
+Is it hot out today?,WEATHER
+What time is it?,TIME
+I want a Pizza!,PIZZA
+What time is it?,TIME
+Do you have any jokes?,JOKE
+Can you have a pizza delivered to me?,PIZZA
+get the time,TIME
+can you tell me a joke?,JOKE
+tell me a joke,JOKE
+can you order me a pizza?,PIZZA
+weather,WEATHER
+can you tell me the weather?,WEATHER
+I would love if you ordered me pizza,PIZZA
+whats up jarvis,GREET
+order pizza,PIZZA
+what time is it?,TIME
+be funny,JOKE
+hello jarvis,GREET
+Can you tell me the time right now?,TIME
+get the time,TIME
+make me laugh,JOKE
+Hello,GREET
+tell me what the weather is,WEATHER
+can you tell me the time?,TIME
+get weather,WEATHER
+say a joke,JOKE
+current time,TIME
+hello,GREET
+say something funny,JOKE
+Can you make me laugh?,JOKE
+order me a pizza,PIZZA
+outdoor conditions,WEATHER
+whatsup,GREET
+Get some pizza for me,PIZZA
+tell me the time,TIME
+Can you tell me a joke?,JOKE
+what is the weather today?,WEATHER
+hows it going,GREET
+tell me something to make me laugh,JOKE
+what is a joke I can tell my coworkers?,JOKE
+Can you tell me the weather?,WEATHER
+what is the time?,TIME
+yo,GREET
+Hi jarvis,GREET
+weather?,WEATHER
+tell me what time it is,TIME
+can you tell a joke?,JOKE
+Could you please order me a pizza?,PIZZA
+Can you be funny?,JOKE
+what is it like outside today?,WEATHER
+tell a joke,JOKE
+i want pizza,PIZZA
+Can you order a cheese pizza?,PIZZA
+Greetings,GREET
+current temperature,WEATHER
+Can you get me the weather?,WEATHER
+whats the weather like?,WEATHER
+laugh,JOKE
+vegetarian pizza,PIZZA
+hello,GREET
+it is cold outside,WEATHER
+is it 12 noon or midnight?,TIME
+rain,WEATHER
+pun,JOKE
+the date is,TIME
+oregano on the crust,PIZZA
+hawaiian pizza with pineapple,PIZZA
+hey,GREET
+hot,WEATHER
+pepporoni pizza,PIZZA
+yesterday afternoon,TIME
+what time is it?,TIME
+i would like some pizza,PIZZA
+joke,JOKE
+there is a storm,WEATHER
+knock knock,JOKE
+warm,WEATHER
+howdy,GREET
+morning,TIME
+pepperoni,PIZZA
+last night,TIME
+snow,WEATHER
+the month is november,TIME
+cheese toppings,PIZZA
+dear friend,GREET
+tomato sauce,PIZZA
+the year is 2017,TIME
+tomorrow at 6 o'clock,TIME
+what is the difference between,JOKE
+sunny,WEATHER
+humor,JOKE
+hi,GREET
+welcome,GREET
+haha,JOKE
+a man walks into a bar,JOKE
+Ok jarvis,GREET
+When does Dunkin Donuts open?,TIME
+What will the weather be like next week?,WEATHER
+What will the low be tonight?,WEATHER
+What is the weather like today?,WEATHER
+What is the time in military time?,TIME
+Can you have a Hawaiian pizza delivered to me?,PIZZA
+Hi there,GREET
+Hey jarvis,GREET
+Hi Jarvis,GREET
+Order a pizza from Leonardo's,PIZZA
+TIME,TIME
+I'd like a riddle,JOKE
+Hola jarvis,GREET
+When does the sun set?,TIME
+Order 2 large pepperoni pizzas,PIZZA
+Display the time,TIME
+Will it snow tonight?,WEATHER
+Heyo,GREET
+I am hungry for pizza,PIZZA
+I'd like a pizza pie,PIZZA
+How are you,GREET
+Can you tell me what time it is?,TIME
+WHat's up?,GREET
+Where is the closest pizza place?,PIZZA
+What is the high for today?,WEATHER
+Good afternoon,GREET
+How hot is it outside?,WEATHER
+Tell me something funny,JOKE
+Is it going to rain today?,WEATHER
+Tell me a good joke,JOKE
+What is the temperature outside?,WEATHER
+Make me laugh Jarvis,JOKE
+What time is it in California?,TIME
+What time is it?,TIME
+How's it going?,GREET
+"Jarvis, make me roll on the floor laughing",JOKE
+Can you order me a pizza?,PIZZA
+Order me a Dominoes pizza,PIZZA
+Do you have the time?,TIME
+I need a laugh,JOKE
+Is it going to be sunny tomorrow?,WEATHER
+I bet you can't make me chuckle,JOKE
+How much time until midnight?,TIME
+I will have a slice of barbecue veggie pizza.,PIZZA
+Why did the chicken cross the road?,JOKE
+I think your joke was offensive,JOKE
+That's what she said,JOKE
+It is snowing today.,WEATHER
+Can I have a 12 inch pizza?,PIZZA
+What time are we leaving?,TIME
+When does this class start?,TIME
+"""Hi, what's your name?",GREET
+"""Jarvis, tell me a joke.",JOKE
+Do you like cheese pizza?,PIZZA
+"""Hey, what's up?",GREET
+How are you?,GREET
+What is your favorite joke?,JOKE
+How's the weather today?,WEATHER
+Order me a pizza from Leonardo's.,PIZZA
+What time is it?,TIME
+What time does the clock say?,TIME
+Hi!,GREET
+How long has it been?,TIME
+Is it raining outside?,WEATHER
+What time do you eat lunch?,TIME
+Hey,GREET
+What is your favorite kind of pizza?,PIZZA
+How's your day been?,GREET
+Do you prefer Domino's pizza or Leonardo's?,PIZZA
+I like to ski when the weather is cold.,WEATHER
+Dave Chappelle tells funny jokes.,JOKE
+When is your bed time?,TIME
+I know a funny joke.,JOKE
+Do you know any good jokes?,JOKE
+Hello,GREET
+Some strange weather were having today.,WEATHER
+Nice weather we're having today.,WEATHER
+I like the warm weather.,WEATHER
+The weather is not nice today.,WEATHER
+There are 24 hours in a day.,TIME
+"""order a pizza for me, jarvis",PIZZA
+what time is it?,TIME
+good evening,GREET
+can you tell me the weather here,WEATHER
+is it sunny,WEATHER
+good afternoon,GREET
+what's the temperature,WEATHER
+hi jarvis,GREET
+can i have the time?,TIME
+do you have any jokes?,JOKE
+what is the weather?,WEATHER
+can you tell me the time,TIME
+greetings,GREET
+please give me the time,TIME
+what is the time?,TIME
+"""tell me the time, please",TIME
+do you know any jokes?,JOKE
+is it raining out?,WEATHER
+tell me something funny,JOKE
+"""i will take a pizza, please",PIZZA
+can you tell me a joke?,JOKE
+hey,GREET
+can i get a bbq chicken pizza?,PIZZA
+hello,GREET
+"""jarvis, what time is it now",TIME
+hello my best chatbot friend,GREET
+how are you?,GREET
+how does it look outside?,WEATHER
+what is the weather like?,WEATHER
+"""jarvis, order me a pizza please",PIZZA
+do you understand human humor?,JOKE
+"""order me a pizza, please",PIZZA
+"""can you tell me the time, please",TIME
+i want to laugh,JOKE
+what is the time right now,TIME
+get a cheese pizza for me,PIZZA
+Please purchase a pepperoni pizza for me,PIZZA
+"""Jarvis, order a margarita pizza",PIZZA
+I'm feeling hungry for pizza.,PIZZA
+Good morning,GREET
+Is it raining?,WEATHER
+Is the sun shining?,WEATHER
+Nice to see you,GREET
+Call for pizza please,PIZZA
+Cheer me up,JOKE
+Hey there,GREET
+Tell me a joke,JOKE
+What time is it?,TIME
+How are things?,GREET
+Hi,GREET
+Let me know the time,TIME
+Could you tell me the time?,TIME
+What is the current time?,TIME
+Say something funny,JOKE
+Can you please order pizza?,PIZZA
+"""Jarvis, look up the time",TIME
+Do you know any good jokes?,JOKE
+Let's order pizza,PIZZA
+Tell me the weather,WEATHER
+I'd like to have some pizza.,PIZZA
+What kind of weather is it?,WEATHER
+How warm is it?,WEATHER
+What is the temperature?,WEATHER
+Good afternoon,GREET
+Is it cold currently?,WEATHER
+What's the time?,TIME
+Hello,GREET
+Is it hot outside?,WEATHER
+Get me some pizza.,PIZZA
+Have you heard anything funny lately?,JOKE
+Tell me the time,TIME
+Good evening,GREET
+What's up?,GREET
+I need a laugh,JOKE
+"can you tell me the time, please",TIME
+hit me with a funny,JOKE
+when is it?,TIME
+what time is the thing?,TIME
+what time is it?,TIME
+time please!,TIME
+what hour is it?,TIME
+are you funny?,JOKE
+"tell me a joke, jarvis",JOKE
+tell me the time,TIME
+tell me what time it is,TIME
+tell me the hour,TIME
+how's it going?,GREET
+make me laugh,JOKE
+"hello, jarvis",GREET
+hey! howdy!,GREET
+"jarvis, what is the hour?",TIME
+what is the weather?,WEATHER
+got any jokes?,JOKE
+what's the time?,TIME
+please order some za,PIZZA
+"knock, knock...",JOKE
+what's your best joke?,JOKE
+hi,GREET
+what is the temperature?,WEATHER
+take a pizza order,PIZZA
+how is the weather today?,WEATHER
+what's up?,GREET
+report today's forecast,WEATHER
+what's that pizza place?,PIZZA
+looks like rain,WEATHER
+"what's going on, jarvis?",GREET
+greetings,GREET
+"jarvis, know any funny jokes?",JOKE
+tell me the weather,WEATHER
+pizza pie with everything on it,PIZZA
+is it nice out today?,WEATHER
+can you order a pizza?,PIZZA
+pizza please!,PIZZA
+what's it like outside?,WEATHER
+do i need my rain jacket today,WEATHER
+make me laugh,JOKE
+is it snowing,WEATHER
+jarvis order me a slice,PIZZA
+is the sun out,WEATHER
+do you have any wisecracks,JOKE
+"i'm hungry, thoughts on pizza",PIZZA
+i want some pizza,PIZZA
+it's been a minute,GREET
+hi jarvis,GREET
+how cold is it outside,WEATHER
+is it sunny,WEATHER
+how are you doing,GREET
+order me a cheese pizza,PIZZA
+what's up,GREET
+time now,TIME
+what is going on,GREET
+have any new jokes,JOKE
+what's the time,TIME
+tell me something funny,JOKE
+how is it hanging,GREET
+cheer me up,JOKE
+can you tell me the time,TIME
+hi there,GREET
+yo,GREET
+make me smile,JOKE
+tell me the time,TIME
+time for some za,PIZZA
+what is your favorite joke,JOKE
+order me a pie jarvis,PIZZA
+what is the weather like,WEATHER
+hello jarvis,GREET
+what is the weather outside,WEATHER
+know any jokes,JOKE
+i need some za,PIZZA
+should i wear gloves today,WEATHER
+can you order me some pizza,PIZZA
+how are you,GREET
+i need some pepperoni za,PIZZA
+i need the time,TIME
+give me your best one-liner,JOKE
+can you tell me the temperature,WEATHER
+i could use the current time,TIME
+whats the time?,TIME
+do you have a sense of humor?,JOKE
+Do you know any jokes?,JOKE
+sup,GREET
+What's your favorite joke,JOKE
+how much is a pizza?,PIZZA
+Do you have the time?,TIME
+time?,TIME
+tell me the weather.,WEATHER
+"""Jarvis, tell me a joke",JOKE
+hi,GREET
+What's it like outside now?,WEATHER
+How's the weather outside?,WEATHER
+weather?,WEATHER
+Whats up,GREET
+give me the time.,TIME
+tell me something funny,JOKE
+I want a pepperoni pizza.,PIZZA
+Is it cold?,WEATHER
+Hey Jarvis,GREET
+do you want to hear a joke?,JOKE
+How's it going?,GREET
+hello,GREET
+Can you order me pizza?,PIZZA
+how are you?,GREET
+"""Jarvis, whats the temperature?",WEATHER
+"""Jarvis, what's it like outside?",WEATHER
+Get me a pizza now.,PIZZA
+Hola,GREET
+can i hear a joke?,JOKE
+hows it going?,GREET
+I'll have two pizzas for delivery.,PIZZA
+what time of day is it?,TIME
+do you have a good joke for me?,JOKE
+What does your clock say?,TIME
+"""buy me a pizza, Jarvis.",PIZZA
+tell me something funny,JOKE
+Order me pizza.,PIZZA
+order me slices of pizza.,PIZZA
+tell me the time.,TIME
+"""Jarvis, can you tell time?",TIME
+order me some slices,PIZZA
+Howdy,GREET
+whats the weather like outside?,WEATHER
+give me a weather update,WEATHER
+Whats the forecast?,WEATHER
+What's the weather like?,WEATHER
+What's up?,GREET
+Tell me a joke!,JOKE
+Is it warm,WEATHER
+time check,TIME
+hey,GREET
+order me some pizza,PIZZA
+Pizza please!,PIZZA
+Have any jokes?,JOKE
+let's hear a joke,JOKE
+how's it going?,GREET
+yo,GREET
+What's it like outside?,WEATHER
+Get pizza for me,PIZZA
+let's order pizza,PIZZA
+Good morning!,GREET
+Let's get pizza!,PIZZA
+tell me how late it is,TIME
+tell me how early it is,TIME
+How cold is it,WEATHER
+What time is it?,TIME
+Hi,GREET
+Can you tell me the time right now?,TIME
+order a pizza,PIZZA
+let's get takeout,PIZZA
+say something funny,JOKE
+What is the current weather,WEATHER
+what's the time?,TIME
+Can you tell me a joke?,JOKE
+Please tell me the current time,TIME
+greetings!,GREET
+sup?,GREET
+What is the current time?,TIME
+What's the temperature?,WEATHER
+Do you have any jokes?,JOKE
+Is it cold out,WEATHER
+hello,GREET
+How late is it?,TIME
+tel me how late it is,TIME
+Hello Jarvis,GREET
+Know any jokes?,JOKE
+What's the temperature,WEATHER
+Tell us a joke,JOKE
+tell me the current time,TIME
+What's in the forecast?,WEATHER
+I want some food.,PIZZA
+Welcome great to see you!,GREET
+Tell me a knock knock joke,JOKE
+What goes up and down but does not move?,JOKE
+Hi Jarvis.,GREET
+I want some food delivered.,PIZZA
+When are you free today?,TIME
+What time does the movie start?,TIME
+Knock knock,JOKE
+Do I need a rain coat?,WEATHER
+"""Get a pizza delivered, extra cheese.",PIZZA
+What temperature is it?,WEATHER
+Do I need a coat?,WEATHER
+Is it snowing?,WEATHER
+Get me some pizza.,PIZZA
+What do you get if you cross a Christmas tree we an iPad?,JOKE
+Hi great to see you today!,GREET
+I'm hungry.,PIZZA
+"""G'day, that's a good day to you !",GREET
+I haven't seen you in forever Jarvis!,GREET
+Are you free in the morning?,TIME
+Find me a vegan pizza place.,PIZZA
+When should we meet?,TIME
+Where is a fancy pizza place?,PIZZA
+What part of the car is the laziest?,JOKE
+It's a pleasure to meet you!,GREET
+What time will you be ready?,TIME
+I want to eat a pizza.,PIZZA
+What time does the store close?,TIME
+Good morning.,GREET
+I want pizza.,PIZZA
+Tell me something funny.,JOKE
+Why do bicycles fall over?,JOKE
+Is it raining?,WEATHER
+What did the dad say during comedy night?,JOKE
+What do elves learn in school?,JOKE
+When does the show end?,TIME
+What time should we meet?,TIME
+Where is the nearest pizza place?,PIZZA
+Is the weather bad today?,WEATHER
+Is winter cold this year?,WEATHER
+Make me laugh.,JOKE
+is it snowing?,WEATHER
+should I wear sunscreen today?,WEATHER
+is it raining?,WEATHER
+is it AM or PM?,TIME
+good afternoon,GREET
+jarvis make me laugh,JOKE
+what's the wind chill today?,WEATHER
+order me a big pepperoni pie,PIZZA
+should I wear a rain jacket outside?,WEATHER
+hello,GREET
+is it the morning?,TIME
+pizza is my favorite food ever,PIZZA
+is it pouring out right now?,WEATHER
+Tell me a knee-slapper,JOKE
+when did you laugh the hardest within the last week?,JOKE
+"""pizza is the best, please get me one",PIZZA
+What is the silliest thing you have ever heard?,JOKE
+Honestly italian food isn't that great but pizza is fantastic,PIZZA
+how humid is it out?,WEATHER
+what's up boi,GREET
+how's it going?!,GREET
+what's going on?!,GREET
+is it morning yet?,TIME
+"""will today be cloudy, overcast, sunny, or mixed?",WEATHER
+good morning,GREET
+how late is it?,TIME
+tell me a knock-knock joke please,JOKE
+how are you?,GREET
+make me giggle,JOKE
+when is it gonna be noon?,TIME
+howdy!,GREET
+is it 9:34 am?,TIME
+"""jarvis tell a joke, but not a dirty one",JOKE
+What time is it?,TIME
+what time of day is right now?,TIME
+will you please order me a dominos pizza,PIZZA
+humor me,JOKE
+is it gonna be a windy one today?,WEATHER
+is it dusk?,TIME
+tell me a joke,JOKE
+what's a good joke?,JOKE
+make me chuckle with some sensible humor,JOKE
+hola,GREET
+hey!,GREET
+please get me pizza,PIZZA
+i love pizza so much,PIZZA
+how long until it's 6 PM?,TIME
+i occasionally dream about pizza,PIZZA
+i fucking love pizza and i want some right now,PIZZA
+"""for the love of god, order me a pizza",PIZZA
+how early is it?,TIME
+What time is it?,TIME
+is it that late?,TIME
+get me a pizza delivery,PIZZA
+bread plus cheese plus sauce equals delicious,PIZZA
+How are you?,GREET
+sometimes we get 5 weeks in a month,TIME
+The wind is blowing cold and strong,WEATHER
+I'm joking.,JOKE
+Life is a comedy to him who thinks and a tragedy to him who feels.,JOKE
+"""Is Jacket,mittens,cap,thermal wear,gloves and snow boots needed for the current weather?",WEATHER
+"""Occasionally, I sleep late in the night",TIME
+when was the sunset yesterday evening?,TIME
+Hi!,GREET
+The last joke got the biggest laugh.,JOKE
+what is the current time?,TIME
+what have you been up to?,GREET
+when daylight saving time starts?,TIME
+Forecast of tomorrow is cloudy with a little drizzle,WEATHER
+"""To stay healthy, itâ€™s best to keep off junk food. You are what you eat.",PIZZA
+"""Flatbread,Thin Crust,Sicilian Style,Chicago Deep Dish,Neapolitan Crust and NY Style Pizza are more famous pizza crust.",PIZZA
+Why should I joke about it?,JOKE
+Spectacular rainbow displays happen when half the sky is still dark with raining clouds.,WEATHER
+"""Winter weather can be cool, chilly, cold, freezing, icy, frosty, very cold or bitter cold.",WEATHER
+What's the weather like?,WEATHER
+can we order food for lunch?,PIZZA
+when is the sun rise time for tomorrow morning?,TIME
+"""Currently sky is overcast, gray and dark.",WEATHER
+I will call you later,TIME
+Joke is always funny.,JOKE
+"""The climate of this region in summer is warm,hot and humid",WEATHER
+The temperature outside is 18 degrees below zero.,WEATHER
+How is it going?,GREET
+Have a great HAHA for xmas and new year!,JOKE
+I prefer to watch comedy movies because I prefer laughing over being scared or involved in a suspenseful action scene,JOKE
+Goodbye!,GREET
+"""silly jokes, puns, and riddles for children and kids",JOKE
+Pizza!Yummy!!!,PIZZA
+Fahrenheit is used in the U.S.; Celsius is used in the other English-speaking countries.,WEATHER
+Current weather forecast is snowstorm and blizzard,WEATHER
+"""All the taste, not on your waist!",PIZZA
+is it already afternoon?,TIME
+It is nice and bright outside.,WEATHER
+It is great to meet you!,GREET
+Good to see you buddy,GREET
+I love jokes.,JOKE
+Eat less during dinner when compare to breakfast.,PIZZA
+She greeted us with a smile.,GREET
+We all laughed loudly when she made a joke.,JOKE
+Have a very wonderful day!,GREET
+Have a good night!,GREET
+I like cheesy pizza very much,PIZZA
+"""Four seasons are Spring,Summer,Fall and Winter.",WEATHER
+I'm running late for the meeting,TIME
+I'm really hungry.,PIZZA
+going to tell some joke,JOKE
+Hey!,GREET
+Hello!,GREET
+"""Knock, knock----Who's There?----Ashe----Ashe who?",JOKE
+Why shouldn't you tell an egg a joke? Because it might crack up!,JOKE
+Macaroni and Cheese Pizza recipe is easy to make for a fun family dinner!,PIZZA
+Have a nice day!,GREET
+"""Since 2000, I lived in US for 3 years",TIME
+"""Fog which is also known as  haze, mist or smog occurs near dawn when the temperature of the day is normally at it's lowest.",WEATHER
+"""And I don't cook,either. Not as long as they still deliver pizza.",PIZZA
+Wish you a happy birthday!,GREET
+when is my next meeting?,TIME
+Did you hear the joke about the peanut butter? I'm not telling you. You might spread it!,JOKE
+Kids were playfully joking with each other.,JOKE
+I wake up early in the morning everyday,TIME
+"""Nice to meet you, I'm    what is your name?",GREET
+order me a pizza,PIZZA
+what is your purpose?,GREET
+what's the temperature?,WEATHER
+I want pizza,PIZZA
+will it be cold today?,WEATHER
+what does the clock say?,TIME
+weather,WEATHER
+what's it look like outside?,WEATHER
+any precipitation this morning?,WEATHER
+what time is it?,TIME
+time?,TIME
+is it raining?,WEATHER
+"""Hello, Jarvis",GREET
+talk dirty to me,JOKE
+be hilarious,JOKE
+humor me,JOKE
+what time it be?,TIME
+I am hungry,PIZZA
+Hi,GREET
+say something funny,JOKE
+let's see your wit,JOKE
+What's up?,GREET
+is it cloudy?,WEATHER
+pizza,PIZZA
+tell me a joke please,JOKE
+what hour is it?,TIME
+I would really like something to eat,PIZZA
+I want lunch,PIZZA
+weather?,WEATHER
+I'm sad,JOKE
+How are you?,GREET
+cheer me up,JOKE
+Good to see you!,GREET
+what time?,TIME
+It is a fine day. How are you getting on?,GREET
+who are you?,GREET
+what time do you have?,TIME
+can you check the humidity for me Jarvis?,WEATHER
+what's it like outside,WEATHER
+Jarvis order me a large cheese,PIZZA
+give me a good knee slapper,JOKE
+pizza now,PIZZA
+call in me a whole large pie with anchovies jarvis,PIZZA
+hi,GREET
+what's presently on the clock,TIME
+tell me a good one liner,JOKE
+what time does your brain think it is?,TIME
+tell me something that will make me lol,JOKE
+Time check Jarvis!,TIME
+Tell me a jest,JOKE
+what's it like outside?,WEATHER
+tell me a good pun,JOKE
+what is the present time?,TIME
+Jarvis what is the time?,TIME
+how has your day been Jarvis?,GREET
+I wanna laugh,JOKE
+tell me a joke,JOKE
+hey,GREET
+Tell me a joke about a good time you had,JOKE
+is it cold outside Jarvis,WEATHER
+eyy what's up chief,GREET
+Hey Jarvis,GREET
+current weather please jarvis,WEATHER
+Top of the morning to you Jarvis,GREET
+Jarvis order some pizza,PIZZA
+what is the temperature,WEATHER
+Jarvis order me a tomato pie,PIZZA
+throw me a joke,JOKE
+what's the weather like today Jarvis?,WEATHER
+jarvis current time please,TIME
+Jarvis order me some Domino's,PIZZA
+Jarvis order me some Leonardo's,PIZZA
+check the weather Jarvis,WEATHER
+hola jarvis,GREET
+what's up,GREET
+Hi Jarvis,GREET
+Jarvis order me some za,PIZZA
+Jarvis please check the clock,TIME
+weather check,WEATHER
+order pizza for lunch,PIZZA
+will i be cold in shorts,WEATHER
+how are you today,GREET
+what time is it,TIME
+tell me something funny,JOKE
+tell me a joke,JOKE
+tell me how late it is,TIME
+make me laugh,JOKE
+how's the weather,WEATHER
+what's your favorite joke,JOKE
+order a large cheese,PIZZA
+is it cloudy,WEATHER
+get a large pepperoni,PIZZA
+tell me the time in london,TIME
+is it time to go,TIME
+what time is it right now,TIME
+hey jarvis,GREET
+knock knock,JOKE
+good evening,GREET
+good morning,GREET
+is it raining,WEATHER
+say something funny,JOKE
+tell me what the clock says,TIME
+good afternoon,GREET
+order from dominos,PIZZA
+hi how are you,GREET
+what time is it in new york,TIME
+order a medium cheese pizza with mushrooms from the pizza place,PIZZA
+order a pizza,PIZZA
+call the pizza place,PIZZA
+tell me a joke about pizza,JOKE
+do you think i need a jacket,WEATHER
+is it seven o'clock,TIME
+good morning jarvis,GREET
+how hot will it get today,WEATHER
+what's the temperature,WEATHER
+hi jarvis,GREET
+hello,GREET
+what is the current time,TIME
+yo what's up,GREET
+tell me how early it is,TIME
+do i need my umbrella,WEATHER
+testing time,WEATHER
+get a pizza,PIZZA
+do you know any jokes,JOKE
+order a pizza for me,PIZZA
+how have you been,GREET
+how have you been,GREET
+how cold will it get today,WEATHER
+is it time to go,TIME
+get pizza for dinner,PIZZA
+order five pizzas,PIZZA
+Could I have the time right now?,TIME
+How is your day going?,GREET
+How are you?,GREET
+"""Evening news is where they begin with â€˜Good eveningâ€™, and then proceed to tell you why it isnâ€™t.",JOKE
+Howâ€™s the weather tomorrow?,WEATHER
+"""I asked God for a bike, but I know God doesnâ€™t work that way. So I stole a bike and asked for forgiveness.",JOKE
+How would you like your pizza?,PIZZA
+How do you like our weather?,WEATHER
+what's the time now?,TIME
+What size pizza do you want?,PIZZA
+What will the weather be like tomorrow?,WEATHER
+what's the date today?,TIME
+How much do you want pizza,PIZZA
+Is the weather always like this?,WEATHER
+Children: You spend the first 2 years of their life teaching them to walk and talk. Then you spend the next 16 years telling them to sit down and shut-up.,JOKE
+Whatâ€™s the weather forecast for tomorrow?,WEATHER
+What do you think of the weather here?,WEATHER
+Hello.,GREET
+Nice to meet you,GREET
+"""I'm ask for a pizza, please",PIZZA
+Light travels faster than sound. This is why some people appear bright until you hear them speak.,JOKE
+What time is it?,TIME
+"""Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.",JOKE
+"""I want to die peacefully in my sleep, like my grandfather.. Not screaming and yelling like the passengers in his car.",JOKE
+"""I will have a large cheese pizza, sausage and mushrooms",PIZZA
+Do you have the time?,TIME
+"""The early bird might get the worm, but the second mouse gets the cheese.",JOKE
+Do not argue with an idiot. He will drag you down to his level and beat you with experience.,JOKE
+Could you bring me some pizza?,PIZZA
+Hello I'd like to order a pepperoni pizza.,PIZZA
+What time?,TIME
+May I have the time right now?,TIME
+Long time no see.,GREET
+What was the weather like yesterday?,WEATHER
+"""Hi, there!",GREET
+I want some pizza.,PIZZA
+How have you been?,GREET
+I need to give the pizza place a call to bring us a pizza.,PIZZA
+What time you left yesterday?,TIME
+What time should I put alarm for?,TIME
+Where can I order pizza?,PIZZA
+tell me a joke about Trump,JOKE
+What time we should go sleep?,TIME
+can you tell me kids jokes,JOKE
+Is it going to rain today?,WEATHER
+You are so funny Jarvis!,JOKE
+Do you want to have pizza for dinner?,PIZZA
+tell me a joke,JOKE
+Hello my friend,GREET
+Do you think weather is warm enough for swimming?,WEATHER
+What is the temperature Jarvis?,WEATHER
+What time is my meeting?,TIME
+Good morning Jarvis,GREET
+Can you order a pizza for me please?,PIZZA
+Welcome home Jarvis,GREET
+What time we should go for a walk?,TIME
+What time you want me to be ready?,TIME
+Tell me a joke Jarvis?,JOKE
+"""Jarvis, can we make plans for warm summer?",WEATHER
+What time is it right now?,TIME
+"""Jarvis, do you know bad jokes?",JOKE
+She will be an hour late,TIME
+How many hours do you sleep Jarvis?,TIME
+You are so funny,JOKE
+Can you tell me a very funny story ?,JOKE
+What time is it?,TIME
+I want some political jokes,JOKE
+What time is right now?,TIME
+Where is the best Italian pizza place?,PIZZA
+This is a joke,JOKE
+I want sunny weather Jarvis,WEATHER
+Good evening Mr. Jarvis,GREET
+What time I can see you?,TIME
+What time I should leave?,TIME
+I prefer warm temperature,WEATHER
+When is the right time to visit her,TIME
+Do you know my favorite pizza?,PIZZA
+What time should I go sleep?,TIME
+What is the best pizza place around?,PIZZA
+"""I like summers, hot weather and sun",WEATHER
+Hello my virtual soulmate,GREET
+Hello Jarvis,GREET
+What is the best joke youâ€™ve ever heard?,JOKE
+jarvis tell me the time right now,TIME
+im hungry,PIZZA
+whats up,GREET
+tell me a joke,JOKE
+knock knock,JOKE
+greetings bot,GREET
+what is the time right now,TIME
+whats the weather today,WEATHER
+what time is it currently,TIME
+say something silly,JOKE
+make me giggle,JOKE
+say something goofy,JOKE
+can you get me a pizza,PIZZA
+what will the temperature be today,WEATHER
+is it going to rain today,WEATHER
+can i ask what is the time,TIME
+make me laugh,JOKE
+is it going to be sunny,WEATHER
+give me the hour and minute,TIME
+crack some jokes,JOKE
+what is the current time,TIME
+order me a pizza please,PIZZA
+tell me the current weather,WEATHER
+hi jarvis,GREET
+pizza for dinner tonight,PIZZA
+please order a cheese pizza from leonardos,PIZZA
+order a large pie,PIZZA
+buy a pizza for me,PIZZA
+nice to see you jarvis,GREET
+be comical,JOKE
+sup jarvis,GREET
+say something funny,JOKE
+whats it gonna be like out today,WEATHER
+i would like a cheese pizza,PIZZA
+hey man,GREET
+hey jarvis,GREET
+how many degrees is it,WEATHER
+what is the forecast,WEATHER
+clock,TIME
+Cheese slice!,PIZZA
+What time is it?,TIME
+Whatâ€™s so funny?,JOKE
+Get me pizza,PIZZA
+How warm is it?,WEATHER
+Hey there,GREET
+I want a slice,PIZZA
+Give me pizza,PIZZA
+Whats the weather?,WEATHER
+Joke please,JOKE
+Order a pizza,PIZZA
+Whatâ€™s the time?,TIME
+How is it out?,WEATHER
+Is it snowing?,WEATHER
+I need a laugh,JOKE
+Hey,GREET
+Got the time?,TIME
+Can you give me a joke,JOKE
+Whatâ€™s your clock say?,TIME
+Greetings,GREET
+Get me a pepperoni pie,PIZZA
+Whats the temperature?,WEATHER
+I want pizza,PIZZA
+Whats up,GREET
+Time?,TIME
+Pizza without pineapple!,PIZZA
+Tell me a joke,JOKE
+Is it sunny or rainy?,WEATHER
+Whatâ€™s the current time?,TIME
+Make me laugh,JOKE
+Letâ€™s get pizza,PIZZA
+Whatâ€™s funny?,JOKE
+Hello,GREET
+Tell me something funny,JOKE
+Sup,GREET
+Is it nice out?,WEATHER
+Yo,GREET
+Tell me the current time,TIME
+How cold is it?,WEATHER
+how are you today,GREET
+wazzup,GREET
+How are you doing today?,GREET
+I’m ready for less rain and more snow,WEATHER
+When will you go?,TIME
+Or a corny joke,JOKE
+it’s so stormy out,WEATHER
+When does it end,TIME
+hi there,GREET
+what time are you going?,TIME
+where have you been,GREET
+What time is it?,TIME
+what’s up,GREET
+Hello Jarvis,GREET
+It’s a beautiful day out today,WEATHER
+hi-ya,GREET
+Bonjour!,GREET
+do you think that storm will hit us,WEATHER
+do you like tomato sauce or garlic olive oil sauce on your pizza,PIZZA
+The show starts at 5 PM,TIME
+Do you know what time it is?,TIME
+I don’t know a lot of good jokes,JOKE
+knock knock,JOKE
+rabbit farts,JOKE
+it’s so windy out today,WEATHER
+You look flushed,JOKE
+do you think it will rain again todau,WEATHER
+sometimes pizza is also called pie or flatbread,PIZZA
+I hope more hurricanes don’t hit,WEATHER
+People seem to like pepperoni pizza a lot and sausage,PIZZA
+I think it’s 9:52 AM,TIME
+Do you like a lot of toppings,PIZZA
+Do you know any funny jokes?,JOKE
+It’s supposed to snow later this week,WEATHER
+what kind of pizza should we get,PIZZA
+"It’s pretty cloudy out, but it’s not supposed to rain",WEATHER
+hey,GREET
+When does it start,TIME
+What’s invisible and smells like carrots?,JOKE
+hahaha,JOKE
+tell me something hilarious,JOKE
+but I have to eat the gluten free crust option,PIZZA
+It snowed this past weekend up on the mountains,WEATHER
+helloooo,GREET
+How long until you get here,TIME
+I love cheese pizza,PIZZA
+How many pizzas should we order,PIZZA
+why hello there,GREET
+greetings,GREET
+what’s the weather going to be tomorrow,WEATHER
+It’s so cold outside,WEATHER
+Do you like pizza?,PIZZA
+howdy,GREET
+i LOVE pizza,PIZZA
+what time do you have to go to class?,TIME
+who’s there,JOKE
+lol,JOKE
+When are you going,TIME
+welcome,GREET
+we have a good restaurant in town called American Flatbread that has awesome wood-fired pizza,PIZZA
+it’s nice to see you again,GREET
+when is this,TIME
+How’s your day going?,GREET
+is it cloudy?,WEATHER
+hey hows it going?,GREET
+pass me a slice please,PIZZA
+tell me a funny,JOKE
+It’s nice to meet you,GREET
+how are you doing?,GREET
+tell me a dumb blonde joke,JOKE
+What’s the weather outside?,WEATHER
+How long until my pizza arrives?,PIZZA
+what time is it?,TIME
+a man walks into a bar,JOKE
+what toppings would you like?,PIZZA
+make me laugh,JOKE
+knock knock,JOKE
+want some pizza?,PIZZA
+you can’t go wrong with pizza,PIZZA
+"Hi, whats up?",GREET
+what do you call a,JOKE
+what is the forecast?,WEATHER
+Good morning,GREET
+can you tell me the time right now?,TIME
+Can i order a pizza?,PIZZA
+hey,GREET
+why did the chicken cross the road?,JOKE
+welcome home,GREET
+extra large pizza please,PIZZA
+Whats the weather like?,WEATHER
+Hello bot how are you?,GREET
+do you know what time it is?,TIME
+thats a good one,JOKE
+It’s been a while,GREET
+"no toppings, extra cheese",PIZZA
+is it raining?,WEATHER
+how hot is it?,WEATHER
+cheesy crust is the best,PIZZA
+Long time no see,GREET
+tell me the weather right now,WEATHER
+please deliver a pizza,PIZZA
+how long do i have?,TIME
+Hi,GREET
+Good morning!,GREET
+One pizza to go,PIZZA
+What's the weather like out there?,WEATHER
+Do you have the time?,TIME
+I want a pizza with extra cheese!,PIZZA
+Could you tell me the weather today?,WEATHER
+Do you know the time?,TIME
+Could you tell me some jokes?,JOKE
+Howâ€™s the weather today?,WEATHER
+Good evening!,GREET
+Anyone here want pizza?,PIZZA
+How's your day?,GREET
+A pizza for here,PIZZA
+"""Could I have a cheese pizza, please?",PIZZA
+A joke please,JOKE
+Show me a joke!,JOKE
+I really need a joke,JOKE
+Can you tell me the time right now?,TIME
+What jokes do you have?,JOKE
+One large pepperoni pizza please,PIZZA
+I would like a pizza with ham and pineapple,PIZZA
+Hello Jarvis,GREET
+What's the temperature?,WEATHER
+Get some pizza for me,PIZZA
+Is it cold today?,WEATHER
+Good afternoon!,GREET
+How are you doing today?,GREET
+How's everything?,GREET
+Could you give me the time?,TIME
+Could I bother you for the time?,TIME
+Could you tell me what time it is?,TIME
+Do you know any joke?,JOKE
+Pizza time!,PIZZA
+Is it sunny outside?,WEATHER
+How's it going?,GREET
+Whatâ€™s the weather forecast today?,WEATHER
+Nice to see you,GREET
+Do you know what time it is?,TIME
+what's a funny joke?,JOKE
+tell me a joke.,JOKE
+"""what is the temperate, precipitation, and wind?",WEATHER
+what are the calories of the piece of pizza?,PIZZA
+how do the climate change?,WEATHER
+you alright?,GREET
+a joke is a funny story or line that's meant to make people laugh.,JOKE
+where can i get the pizza?,PIZZA
+how is it going?,GREET
+this pizza is delicious.,PIZZA
+"""this pizza contains pepperoni, mushrooms, onions, sausage, bacon, extra cheese, black olives, green peppers, pineapple, spinach.",PIZZA
+he told a very funny joke,JOKE
+what is the weather like today?,WEATHER
+hello jarvis,GREET
+halo,GREET
+what date is it today?,TIME
+what is your favorite pizza,PIZZA
+"""the weather is hot or cold, wet or dry, calm or stormy, clear or cloudy.",WEATHER
+what is the ingredients of the pizza?,PIZZA
+how long is the period?,TIME
+give me some jokes,JOKE
+when is the holiday or the vacation?,TIME
+what is the time?,TIME
+what's new?,GREET
+hi,GREET
+what is the pizza favor?,PIZZA
+"""the sky can be cloudy, overcast, cloudless, clear, bright, blue, gray, and dark.",WEATHER
+i would like to order the pizza.,PIZZA
+the weather is terrible,WEATHER
+a comic says funny things; a comedian says things funny,JOKE
+when should i take the class?,TIME
+it is a interesting joke,JOKE
+this joke is really fun,JOKE
+it is snowing.,WEATHER
+this is a humorous story,JOKE
+have a good day,GREET
+the weather is really cool.,WEATHER
+"""the weather can be rainy, wet, humid, dry, arid, frigid, foggy, windy, stormy, breezy, windless, calm.",WEATHER
+i need a pizza menu,PIZZA
+"""yesterday was tuesday, and tomorrow will be thursday.",TIME
+what's up?,GREET
+the sky is blue.,WEATHER
+how are you?,GREET
+when is the summer term?,TIME
+domino's is my favorite.,PIZZA
+Hey do you have the time?,TIME
+The wind blew a tree over,WEATHER
+The temperature will be warm tomorrow,WEATHER
+How long will it take for my pizza to get here?,PIZZA
+"""Someone asked me if I would like a frozen banana. I said no, but maybe later, so yes!",JOKE
+"""Hello, Iâ€™m Bennett.",GREET
+When are the clouds going to break up?,WEATHER
+"""You should leave early, the roads will be really bad due to the storm",WEATHER
+Aloha!,GREET
+Are you free?,TIME
+When are you available?,TIME
+We could switch out the tomato sauce for an alfredo base,PIZZA
+Whatâ€™s up?,GREET
+It was snowing so bad I could hardly see,WEATHER
+I am running late.,TIME
+"""What is black, white and red all over?",JOKE
+Why did Dracula join the red cross?,JOKE
+I would like a large pepperoni pizza.,PIZZA
+Looks like we got here early,TIME
+"""The roads iced up last night, I slipped twice walking down my driveway.",WEATHER
+Ciao Bella!,GREET
+Pleased to meet you.,GREET
+"""About five years ago, I spent three hours working on a project",TIME
+How have you been?,GREET
+Iâ€™m not joking around here.,JOKE
+"""When the clock strikes three, I will go",TIME
+"""If the set up is good enough, almost any line will make people laugh.",JOKE
+What time should we get there?,TIME
+The time flew by yesterday.,TIME
+Why did the chicken cross the road?,JOKE
+I want something to dip my crust in,PIZZA
+Hi friend.,GREET
+How much does extra cheese cost?,PIZZA
+"""Could I get it extra crispy, with pepperoncini?",PIZZA
+Salutations!,GREET
+"""Today or tomorrow, any time will work for me",TIME
+Hey,GREET
+Welcome back.,GREET
+"""Hey, thatâ€™s a great joke!",JOKE
+What time is it?,TIME
+"""Have you heard the one about the bar tender, the mechanic, and the spawn of satan?",JOKE
+It was such a perfect day to play outside,WEATHER
+Are you free?,TIME
+what jokes do you know,JOKE
+what toppings do you like on your pizza,GREET
+whats kicking,WEATHER
+whats new with you,WEATHER
+is it hailing,WEATHER
+peppers,JOKE
+hello frien,PIZZA
+find me a joke,PIZZA
+hows it going,PIZZA
+what jokes are funny,JOKE
+which country tells the most jokes,WEATHER
+sleet,PIZZA
+garlic,WEATHER
+what time is it,GREET
+do you know the temperature in degrees fahrenheit,PIZZA
+hola,PIZZA
+what kind of weather is pleasant,TIME
+i want a large pepperoni pizza,WEATHER
+who invented the joke,WEATHER
+is it hot out,WEATHER
+is it raining,PIZZA
+do eggs go on pizza,WEATHER
+what up,PIZZA
+tell me a joke,WEATHER
+what size pizza do you want,TIME
+i want pepperoni pizza,WEATHER
+how are you today,TIME
+howdy,WEATHER
+clock,PIZZA
+hello jarvis,TIME
+do you have a clock,TIME
+what does the minute hand read,WEATHER
+pepperoni,PIZZA
+bonjour,TIME
+onions,TIME
+is it sunny,TIME
+what is the best weather to ski in,PIZZA
+snow,PIZZA
+how are you doing,PIZZA
+what is the temperature,PIZZA
+whats the time,WEATHER
+is it snowing outside,PIZZA
+what is the weather like in florida,GREET
+i want pizz,JOKE
+why is pizza baked,GREET
+can you tell me the time right now,JOKE
+rain,PIZZA
+do you know the time,TIME
+get some pizza for me,TIME
+is it warm out,WEATHER
+why is pizza round,PIZZA
+sleet,PIZZA
+which country makes the best pizza,PIZZA
+hi,PIZZA
+watch,PIZZA
+hows it hanging,TIME
+whats up,GREET
+is it snowing,GREET
+do you know the temperature in degrees celsius,WEATHER
+i want a pepperoni pizza,JOKE
+medium,GREET
+hey,GREET
+pizza sauce,JOKE
+large,PIZZA
+what is the funniest joke,GREET
+small,WEATHER
+is it warm,GREET
+sausage,GREET
+who cooks pizza,PIZZA
+how do people predict the weather,TIME
+where can i hear funny jokes,WEATHER
+what time is it in an hour,PIZZA
+what time does your watch say,GREET
+what is the weather like outside,WEATHER
+i want a small pepperoni pizza,JOKE
+time,WEATHER
+do you know the time off the top of your head,TIME
+is it hot outside,PIZZA
+what time is it,PIZZA
+tell me jokes,JOKE
+hello,GREET
+is salt put on pizza,WEATHER
+is it sleeting,GREET
+hail,GREET
+why do jokes make people laugh,JOKE
+i want pizza,JOKE
+i want a medium pepperoni pizza,GREET
+whats a good joke to say at someones funeral,WEATHER
+pizza,PIZZA
+should i become a weather forecaster,WEATHER
+what time does the clock say,TIME
+pizza crust,PIZZA
+yo,GREET
+stuffed crust,PIZZA
+i like cheesy stuffed crust pizza,PIZZA
+What gets wetter the more it dries? A towel,WEATHER
+How much snow is there outside?,WEATHER
+What's the difference between a guitar and a fish?,GREET
+howdy,GREET
+is it raining?,WEATHER
+What kind of toppings do you want?,JOKE
+how's it going?,PIZZA
+Is it hot out?,PIZZA
+What's your favorite kind of pizza?,GREET
+how hot is it out there?,JOKE
+Do you want olives?,JOKE
+What do lawyers wear to court? Lawsuits,TIME
+hey,WEATHER
+What did the bacon say to the tomato? Lettuce get together,TIME
+What is the best pizza topping?,TIME
+Do you want to go get pepperoni pizza right now?,WEATHER
+hello!,JOKE
+hi,GREET
+what's up?,WEATHER
+What does a nosy pepper do? Gets jalapeno business!,WEATHER
+hey there,JOKE
+Can I have a large pizza?,GREET
+What do you call an alligator in a vest?,TIME
+Do you have the time?,PIZZA
+I want some pizza.,GREET
+what's new?,WEATHER
+Can you see the clock?,PIZZA
+What does the clock say?,GREET
+how cloudy is it?,GREET
+will it be nice out tomorrow?,PIZZA
+Can I see your watch?,PIZZA
+what's the temperature?,WEATHER
+how cold is it?,TIME
+what's the weather today?,JOKE
+Do you have a watch on you?,PIZZA
+Can you tell me the time?,TIME
+will it rain,WEATHER
+when did you last hear a good joke,JOKE
+We have had rainy weather all week,WEATHER
+how is the weather,WEATHER
+what is the weather today,WEATHER
+he has not had a slice,PIZZA
+get me some pizza,PIZZA
+can we meet at one,TIME
+can you tell me the time right now,TIME
+what is your favorite funny story,JOKE
+I only eat New York style pizza,PIZZA
+when did you last see her,TIME
+Tell me a joke,JOKE
+He cant stop joking,JOKE
+They just ate pizza,PIZZA
+Lets hear a funny joke,JOKE
+is it raining,WEATHER
+comedians tell jokes,JOKE
+I want pizza,PIZZA
+what is it like outside,WEATHER
+we should order pizza,PIZZA
+I need a slice of pizza,PIZZA
+Its pouring out,WEATHER
+the weather is cold,WEATHER
+pass me a slice of pizza please,PIZZA
+when is class,TIME
+when does the film show,TIME
+Deep dish pizza is bad,PIZZA
+when will it be time to eat,TIME
+When will the train arrive,TIME
+I would like to hear a joke,JOKE
+is it snowing,WEATHER
+can we get a small pizza pie,PIZZA
+"""Long time no see, Jarvis!",GREET
+What time is it right now?,TIME
+I hope it's going to be sunny tomorrow.,WEATHER
+Can you tell me the time?,TIME
+Give me a laugh!,JOKE
+Hey Jarvis!,GREET
+Howâ€™s it going?,GREET
+"""Jarvis, order a pizza from Dominoâ€™s",PIZZA
+Say something punny.,JOKE
+Whatâ€™s the weather outside right now?,WEATHER
+Hi Jarvis,GREET
+Is it going to be cold later?,WEATHER
+Whatâ€™s the forecast?,WEATHER
+What time is it?,TIME
+Say something funny,JOKE
+Tell me what time it is.,TIME
+Iâ€™d like a small cheese with extra tomato sauce.,PIZZA
+Hello,GREET
+Whatâ€™s the time?,TIME
+Tell me the time,TIME
+How are you?,GREET
+I want a pepperoni pizza,PIZZA
+Tell a funny joke,JOKE
+Whatâ€™s the temperature?,WEATHER
+Whatâ€™s the weather forecast for 05401?,WEATHER
+Make a pun.,JOKE
+Is it raining?,WEATHER
+"""Hey jarvis, order me a cheese pizza.",PIZZA
+Hello Jarvis,GREET
+Order three extra large pizzas with no mushrooms.,PIZZA
+Can i have a margherita pizza?,PIZZA
+Whatâ€™s the time right now?,TIME
+When is it supposed to snow?,WEATHER
+Tell a knock-knock joke,JOKE
+Tell me a joke,JOKE
+How much rain are we getting?,WEATHER
+Give me a hoot!,JOKE
+Hi!,GREET
+can you please tell me a joke jarvis,JOKE
+im in the mood to hear something funny,JOKE
+im in the mood for something funny,JOKE
+how are you doing,GREET
+what does the clock say right now,TIME
+hi there,GREET
+can i get the time please,TIME
+can you find a restaurant to order from and get me a pizza,PIZZA
+is it dry or humid today,WEATHER
+hey there hi there ho there,GREET
+jarvis what do you think is the funniest thing anyone has ever said to you please tell me,JOKE
+is it going to rain today,WEATHER
+is there something you could do to cheer me up,JOKE
+let me know if its warm enough to not wear a jacket today,WEATHER
+tell me a joke,JOKE
+greetings and salutations jarvis,GREET
+jarvis would you call the pizza place for me,PIZZA
+i am hungry and would like you to order me a pizza,PIZZA
+bonjour jarvis,GREET
+what is the high and low for today,WEATHER
+im hungry can you order a couple deep dishes for the crew,PIZZA
+hi,GREET
+what is the current time,TIME
+is the sky clearing up,WEATHER
+what is the weather right now,WEATHER
+how does it look out there today,WEATHER
+give me a medium with green peppers,PIZZA
+whats the time at this moment,TIME
+what does your watch say jarvis,TIME
+can you order me a pizza,PIZZA
+do you know any good knock knock jokes,JOKE
+howdy there jarvis,GREET
+knock knock,JOKE
+order me a large meat lovers,PIZZA
+id like one of those hot round cheesy things that people eat,PIZZA
+is it sunny or cloudy right now,WEATHER
+what is the temperature outside,WEATHER
+jarvis call the pizza place down the street and order two smalls,PIZZA
+hey jarvis,GREET
+whats your best joke,JOKE
+are the clouds starting to break,WEATHER
+what part of the day is it right now,TIME
+the current time right now is what jarvis,TIME
+hiya jarvis,GREET
+how is it going at this point in time,GREET
+what time is it,TIME
+get me a large pie and some coca cola too,PIZZA
+do you know any good jokes,JOKE
+is it hot or cold outside,WEATHER
+hola senior,GREET
+i would like a slice of pizza,PIZZA
+should i bring a coat if i am going outside today,WEATHER
+is it raining,WEATHER
+i am in the mood for something round and hot and fresh with cheese and pepperoni can you get me one,PIZZA
+whats shaking good buddy,GREET
+can you get me a pza?,PIZZA
+im hungry so can you order me a pizza please,PIZZA
+hey whats going on with you today,GREET
+i could go for a pizza,PIZZA
+pizza has pepperoni!,PIZZA
+What is there to eat?,PIZZA
+Hello!,GREET
+is there snow on the ground?,WEATHER
+You make me laugh,JOKE
+it sis good to finally meet you!,GREET
+It is good to see you!,GREET
+what time is it?,TIME
+What is the time of day?,TIME
+It seems really gray out,WEATHER
+what is the time?,TIME
+haha! laughing at jokes is fun!,JOKE
+is it cold outside?,WEATHER
+how are you?,GREET
+how have you been doing?,GREET
+is it clear out?,WEATHER
+is the sky cloudy?,WEATHER
+when is the food arriving?,PIZZA
+knock knock!,JOKE
+do I need a jacket?,WEATHER
+can you order some food?,PIZZA
+some jokes are funny!,JOKE
+where are we eating?,PIZZA
+I hope the pizza has extra cheese!,PIZZA
+what clothes should I wear?,WEATHER
+Hi Jarvis!,GREET
+finished with testing,PIZZA
+is it hot out?,WEATHER
+is it raining?,WEATHER
+It is so nice and bright outside,WEATHER
+Goodbye! it has been good to meet you!,GREET
+i am really hungry,PIZZA
+"A man walked into a bar, ouch",JOKE
+How are you doing?,GREET
+I laugh when when you tell jokes!,JOKE
+it is time to go,TIME
+when is the meeting?,TIME
+what kind of food do you want to eat?,PIZZA
+What have you been up to?,GREET
+is it the afternoon already?,TIME
+It feels really lake in the day,TIME
+what time of day is it?,TIME
+should we have chicago or new york style pizza?,PIZZA
+Ha! that is really funny,JOKE
+tell me a joke,WEATHER
+hello,JOKE
+is it cold out?,GREET
+get a pizza for me,GREET
+hi jarvis,PIZZA
+hey there,PIZZA
+i could use a laugh,GREET
+good afternoon,JOKE
+good morning,PIZZA
+order a pizza for me,GREET
+tell me what time it is,TIME
+is it nice out?,WEATHER
+what is the weather,WEATHER
+good evening,GREET
+hello jarvis,GREET
+make me laugh,JOKE
+i want a pizza with cheese and pepperoni,PIZZA
+could you tell me the time right now?,TIME
+what hour is it?,TIME
+what are the weather predictions,WEATHER
+do you know any jokes?,JOKE
+what is the time?,TIME
+tell me something witty,JOKE
+i would like to hear a joke,JOKE
+is it raining or sunny?,WEATHER
+i would like to know the time.,TIME
+i'd like a pizza!,PIZZA
+what is the weather prediction,WEATHER
+what's the forecast,WEATHER
+what's the time?,TIME
+howdy,GREET
+what part of the day is it?,TIME
+how are you?,GREET
+what's the temperature outside?,WEATHER
+i'm hungry for a pizza,PIZZA
+tell me a joke,JOKE
+Yo Jarvis,GREET
+Can you say a joke,JOKE
+Could you tell me the time please?,TIME
+You good?,GREET
+Hello Jarvis,GREET
+Hello,GREET
+I NEED PIZZA,PIZZA
+tell me a funny story,JOKE
+say something funny!,JOKE
+tell me the current weather please,WEATHER
+How's the weather?,WEATHER
+Can you tell me the current weather?,WEATHER
+I would like to have one slice of pizza,PIZZA
+How is the weather like?,WEATHER
+Can you tell me the time?,TIME
+Hi Jarvis,GREET
+How is the weather?,WEATHER
+Hi,GREET
+How is everything going?,GREET
+What is the weather forecast?,WEATHER
+tell a joke,JOKE
+please feed me with pizza,PIZZA
+I really want some pizza,PIZZA
+I am so hungry that I can eat two whole pizza all by myself,PIZZA
+Can you tell me the time right now?,TIME
+Can you check the time for me right now?,TIME
+How's the weather like?,WEATHER
+What time is it?,TIME
+Can you please tell me a joke,JOKE
+Can you check the time for me right now please?,TIME
+Get me some pizza,PIZZA
+let me know what the weather is,WEATHER
+what is the time right now?,TIME
+What's up Jarvis?,GREET
+What's the time?,TIME
+share a funny story,JOKE
+Can you tell me the current weather please?,WEATHER
+Do you know what time it is?,TIME
+How is the weather like?,WEATHER
+How are you?,GREET
+i want a pizza,PIZZA
+could you get me some pizza,PIZZA
+can you check the time for me,TIME
+what time is it,TIME
+what's the weather like,WEATHER
+do you have any jokes,JOKE
+what's the chance of rain,WEATHER
+good day to you,GREET
+what's up,GREET
+how are you,GREET
+what's the weather,WEATHER
+do you have the time,TIME
+how much time is left,TIME
+what's the temperature,WEATHER
+heard anything funny lately,JOKE
+what time is it right now,TIME
+do you know any good jokes,JOKE
+hi there,GREET
+good morning,GREET
+tell me a knock knock joke,JOKE
+how are you today,GREET
+what's it like out today,WEATHER
+order a large pizza,PIZZA
+can i get a pizza,PIZZA
+hello jarvis,GREET
+have you heard any good jokes,JOKE
+i would like some pizza,PIZZA
+tell me something funny,JOKE
+is it going to rain,WEATHER
+can you get me a pizza,PIZZA
+heard any jokes lately,JOKE
+can you order a pizza,PIZZA
+what's the date today,TIME
+will the temperature stay cold,WEATHER
+what's a good joke,JOKE
+how's the weather today,WEATHER
+tell me a joke,JOKE
+when is it right now,TIME
+how's it going,GREET
+do you know any jokes,JOKE
+it's nice to see you,GREET
+long time no see,GREET
+is it raining,WEATHER
+Do I need a coat?,WEATHER
+I'm hungry.,PIZZA
+Good afternoon to you!,GREET
+Where is a fancy pizza place?,PIZZA
+Is winter cold this year?,WEATHER
+Why do bicycles fall over?,JOKE
+What time does the store close?,TIME
+Knock knock,JOKE
+"""Get a pizza delivered, extra cheese.",PIZZA
+It's a pleasure to meet you!,GREET
+I want to eat a pizza.,PIZZA
+Tell me something funny.,JOKE
+Top of the morning to you Jarvis.,GREET
+Do I need a rain coat?,WEATHER
+I haven't seen you in forever Jarvis!,GREET
+Are you free tonight?,TIME
+Is the weather bad today?,WEATHER
+I want some food.,PIZZA
+Is it snowing?,WEATHER
+What time does the store open?,TIME
+What time should we meet?,TIME
+What time does the movie start?,TIME
+What goes up and down but does not move?,JOKE
+Good morning.,GREET
+Is it raining?,WEATHER
+Are the roads icy today?,WEATHER
+What did the dad say during comedy night?,JOKE
+What time will you be ready?,TIME
+Where is the nearest pizza place?,PIZZA
+Make me laugh.,JOKE
+When does the show end?,TIME
+I want some food delivered.,PIZZA
+Find me a vegan pizza place.,PIZZA
+What temperature is it?,WEATHER
+When should we meet?,TIME
+What part of the car is the laziest?,JOKE
+What do you get if you cross a Christmas tree we an iPad?,JOKE
+When is it supposed to get warmer?,WEATHER
+What do elves learn in school?,JOKE
+I want pizza.,PIZZA
+Hi Jarvis.,GREET
+It's nice to meet you!,GREET
+Order a large pepperoni.,PIZZA
+"""Im hungry, get me a pie.",PIZZA
+Hey man.,GREET
+Is it going to rain today?,WEATHER
+Good afternoon.,GREET
+Tell me a joke.,JOKE
+I want to hear a joke.,JOKE
+What year is it?,TIME
+Do you have the time?,TIME
+Do computers understand dad jokes?,JOKE
+Good day to you.,GREET
+I want to hear something funny.,JOKE
+What is the date and time?,TIME
+Teach me a new joke.,JOKE
+Time?,TIME
+Is the weather nice today?,WEATHER
+Whatâ€™s the weather like outside?,WEATHER
+Get me a large pepperoni pie!,PIZZA
+Hey,GREET
+Good evening.,GREET
+Place and order for some pizza in 30 minutes.,PIZZA
+Hola Jarvis.,GREET
+Order me pizza for lunch.,PIZZA
+What time is it?,TIME
+Hey Jarvis,GREET
+Should I get my snow tires put on this weekend?,WEATHER
+How are you?,GREET
+Tell me something funny,JOKE
+Howâ€™s the weather this weekend?,WEATHER
+Im going to get a slice of cheese.,PIZZA
+When will the rain stop?,WEATHER
+Whats the military time right now?,TIME
+Tell me a funny joke.,JOKE
+Hey how are you today?,GREET
+Howdy,GREET
+Hey whats up?,GREET
+Good morning.,GREET
+Tell me the time.,TIME
+Get me a pizza.,PIZZA
+Whatâ€™s the high temperature today?,WEATHER
+Tell me when its afternoon.,TIME
+Itâ€™s time for lunch order me a pie.,PIZZA
+Is it before noon?,TIME
+Whatâ€™s the temperature going to be at noon?,WEATHER
+Is it going to be cold and raining all day?,WEATHER
+"""Man I need some cheesy, greasy pizza.",PIZZA
+Hi there,GREET
+Hello.,GREET
+Howâ€™s it going?,GREET
+what's the temperature?,WEATHER
+Good Morning,GREET
+what time is it jarvis?,TIME
+do you have any puns?,JOKE
+call Dominos and order us a pizza,PIZZA
+what time is it?,TIME
+how's it going,GREET
+how's the weather,WEATHER
+I want to hear a joke,JOKE
+what's the time,TIME
+i'm hungry for pizza,PIZZA
+good afternoon,GREET
+hey Jarvis,GREET
+order me a pepperoni slice,PIZZA
+tell me the time,TIME
+say something funny,JOKE
+what time is it now,TIME
+what's the forecast,WEATHER
+what's a good pun,JOKE
+hi,GREET
+Hello. How are you?,GREET
+do you have any jokes?,JOKE
+Yo,GREET
+what is the current time?,TIME
+I would like to hear a joke,JOKE
+can you tell me the time right now,TIME
+what's the weather like,WEATHER
+please get me some pizza,PIZZA
+tell me a good pun,JOKE
+tell me a joke,JOKE
+I'd like a couple slices of pizza,PIZZA
+I feel like having pizza tonight,PIZZA
+how have you been?,GREET
+is it going to rain?,WEATHER
+sup Jarvis,GREET
+what time is it currently?,TIME
+is it cloudy?,WEATHER
+hello!,GREET
+howdy,GREET
+do I need an umbrella?,WEATHER
+how's the weather looking?,WEATHER
+is it sunny outside?,WEATHER
+let's get pizza,PIZZA
+is it nice today?,WEATHER
+please tell me a funny joke,JOKE
+Let's hear a joke,JOKE
+make me laugh,JOKE
+how strong is the wind today?,WEATHER
+how're you doing,GREET
+let's eat some pizza tonight,PIZZA
+what's up?,GREET
+what is the weather,WEATHER
+please get me a slice of pizza,PIZZA
+does anyone know the weather?,WEATHER
+i'd like to order some pizza,PIZZA
+i'm really hungry,PIZZA
+whats it like outside today,WEATHER
+anyone want to order food,PIZZA
+can you tell me the time,TIME
+make me laugh,JOKE
+someone get me pizza,PIZZA
+hi,GREET
+hey,GREET
+whats it like outside,WEATHER
+tell me the weather,WEATHER
+i want pizza,PIZZA
+whats the time,TIME
+what is the time?,TIME
+time,TIME
+its been a while,GREET
+say something funny,JOKE
+how about a joke,JOKE
+anyone got the time?,TIME
+tell me a joke,JOKE
+good to see you,GREET
+say a joke,JOKE
+anyone got an idea for a joke?,JOKE
+anyone got a joke they want to tell?,JOKE
+how is the weather today?,WEATHER
+want to order pizza?,PIZZA
+i want to laugh,JOKE
+whats up,GREET
+when is it?,TIME
+im starving,PIZZA
+what time is it right now,TIME
+whats new?,GREET
+pizza is my favorite food,PIZZA
+Pizza made me fat and greasy,PIZZA
+I want something can make me laugh,JOKE
+show me your humor,JOKE
+Could you tell me the time?,TIME
+"I am sad, tell me a Joke",JOKE
+Pizza is not really healthy.,PIZZA
+I care about current weather,WEATHER
+hello,GREET
+pizza for my breakfast is a good option,PIZZA
+What is the time on your watch?,TIME
+Is it raining today?,WEATHER
+show me the weather,WEATHER
+Is it hot today?,WEATHER
+Can you tell me the weather?,WEATHER
+what’s up,GREET
+say a joke to prove you are not a boring guy,JOKE
+"it is very late, pizza is our only option",PIZZA
+good morning honey,GREET
+"I am bored, I want a Joke",JOKE
+I need to know the time!,TIME
+I am hungry and I want to eat pizza,PIZZA
+how are you,GREET
+I cannot live without know the weather,WEATHER
+tell me the current time,TIME
+what does the clock say?,TIME
+any good jokes for me?,JOKE
+what time is it?,TIME
+hi,GREET
+hi man!,GREET
+you looks great today,GREET
+yoo,GREET
+"long time no see, how’s your life?",GREET
+nice to see you here,GREET
+Is it cold today?,WEATHER
+order a pizza for me now,PIZZA
+tell me a funny story,JOKE
+Is it snowing today?,WEATHER
+Cheer me up!,JOKE
+I want pizza for my dinner,PIZZA
+I want to eat Dominos!,PIZZA
+"I forgot my watch, I don’t know the time.",TIME
+Time please!,TIME
+Whatâ€™s the time,TIME
+Tell me something funny ,JOKE
+that was funny,JOKE
+Is that rain,WEATHER
+Howâ€™s it going,GREET
+Are you hungry ,PIZZA
+Letâ€™s get papa johns ,PIZZA
+Nice to meet you,GREET
+Do you have a watch ,TIME
+Is it cloudy ,WEATHER
+letâ€™s order pizza,PIZZA
+How are you ,GREET
+Is it warm out ,WEATHER
+Is it going to snow,WEATHER
+Whatâ€™s your bedtime ,TIME
+I want some pizza,PIZZA
+That was hilarious,JOKE
+Letâ€™s make a pizza,PIZZA
+What a nice day ,WEATHER
+Letâ€™s get dominos ,PIZZA
+Is it cold out ,WEATHER
+Is it a nice day ,WEATHER
+Whatâ€™s your name,GREET
+Itâ€™s very early ,TIME
+Have we met,GREET
+Itâ€™s getting late ,TIME
+Make me laugh,JOKE
+Let me introduce myself,GREET
+What does that clock say,TIME
+Itâ€™s noon now ,TIME
+"""Hi, how are you",GREET
+Pleasure to meet you,GREET
+hi ,GREET
+what time is it ,TIME
+Want to hear a joke,JOKE
+My name is Colin ,GREET
+I need a laugh,JOKE
+Want to bake a pizza,PIZZA
+what's the weather forecast for the rest of the week,WEATHER
+how are you doing,GREET
+how's the weather,WEATHER
+share a joke please,JOKE
+tell me a joke,JOKE
+what toppings you want on the pizza,PIZZA
+get us some fun,JOKE
+do you want sausage on your slices,PIZZA
+make me laugh,JOKE
+how is the weather going to be tomorrow,WEATHER
+hey jarvis,GREET
+can i know the current time,TIME
+how have you been jarvis,GREET
+hello,GREET
+weather forecast,WEATHER
+is it a good day for walk,WEATHER
+let us smile for a while,JOKE
+tell me the time now,TIME
+can i know the weather,WEATHER
+pizza please,PIZZA
+what is the time now,TIME
+should we order some pizza,PIZZA
+excuse me do you know the time,TIME
+what's up jarvis,GREET
+give me a funny story,JOKE
+what's new,GREET
+current time,TIME
+what you been up to,GREET
+what time is it,TIME
+how is it going,GREET
+would you like to share a joke,JOKE
+any good pizza places near here,PIZZA
+do you happen to know what time is it,TIME
+nice to meet you,GREET
+can i have a pizza,PIZZA
+what is it like outside,WEATHER
+tell us current weather jarvis,WEATHER
+where do you want to go for pizza,PIZZA
+order me a pizza,PIZZA
+what is the time of day?,TIME
+order a pizza,PIZZA
+I want to order a pizza,PIZZA
+what's up fam,GREET
+what time is it?,TIME
+is it snowing?,WEATHER
+hola,GREET
+is it hot outside?,WEATHER
+what's the minute?,TIME
+what's the time of day?,TIME
+I want pepperoni pizza,PIZZA
+I want cheese pizza,PIZZA
+how do you do,GREET
+I want comedy,JOKE
+what is the hour?,TIME
+is it cold out?,WEATHER
+have you got the time?,TIME
+tell me something funny,JOKE
+how's it going?,GREET
+what toppings do you like?,PIZZA
+I don't want any toppings,PIZZA
+what's the weather?,WEATHER
+hello,GREET
+got any good jokes?,JOKE
+what's up?,GREET
+Tell me the time,TIME
+tell me a joke,JOKE
+tell me about the weather,WEATHER
+time?,TIME
+are you good at comedy,JOKE
+what is it like outside?,WEATHER
+is it raining?,WEATHER
+hi there,GREET
+let's order a pizza,PIZZA
+hi,GREET
+What's the hour?,TIME
+"""hey, what's new with you?",WEATHER
+good afternoon,GREET
+what is the time now?,PIZZA
+what is it like outside,PIZZA
+what time of day is it?,TIME
+tell me the weather right now,WEATHER
+what time is it?,GREET
+can you please order a small pepperoni with cheese please,JOKE
+please make me laugh,JOKE
+is it nice outside?,JOKE
+what is the time?,WEATHER
+I would like a large pepperoni please,PIZZA
+what's the time,GREET
+tell me something funny,GREET
+what's the current time?,GREET
+what is the temperature?,TIME
+please order a pizza,JOKE
+is it sunny?,GREET
+small cheese for me,JOKE
+please tell me some jokes,GREET
+what is something funny that you heard lately,TIME
+tell me the current weather,JOKE
+have you heard any good jokes lately?,WEATHER
+hello,TIME
+please get some pizza for me,WEATHER
+hi,WEATHER
+pick up the phone and get me some pizza,GREET
+what is the weather right ow?,TIME
+is it snowing?,PIZZA
+good morning,TIME
+place an order of pizza for me,WEATHER
+what's up?,TIME
+is it raining?,PIZZA
+what is the hour?,JOKE
+how's it going?,PIZZA
+share a joke with me,PIZZA
+tell me a joke,TIME
+nice to meet you,WEATHER
+I want to hear a joke,JOKE
+do you know the hour?,TIME
+do you know of any jokes?,JOKE
+do you want pizza? we can get some together,PIZZA
+check the weather for me,WEATHER
+could you tell me a joke to make me laugh?,JOKE
+what time is it now,TIME
+"""jarvis, if you could tell me the time now, that would be helpful",TIME
+is the weather good outside?,WEATHER
+find the best joke and tell me,JOKE
+can you watch the clock over there and tell me what time is it now?,TIME
+tell me a joke,JOKE
+could you please tell me what time is it now?,TIME
+can you get a large size one with cheese? thanks,PIZZA
+can you buy me a pizza downstairs?,PIZZA
+tell me something funny,JOKE
+how do you like the weather,WEATHER
+order me a veggie pizza,PIZZA
+how is the weather,WEATHER
+what will the weather be like tomorrow,WEATHER
+let's order some pizza,PIZZA
+do you know what time is it now/,TIME
+buy me a slice of pizza,PIZZA
+what is your favorite joke?,JOKE
+do you know any joke,JOKE
+"""I want a pizza, can you get one for me",PIZZA
+what is the funniest joke in the world,JOKE
+what's the weather like,WEATHER
+check the time please,TIME
+"""I'm bored, tell me something amusing",JOKE
+how many hours do we have to wait?,GREET
+jarvis be a comedian,JOKE
+is it afternoon yet?,PIZZA
+make me laugh,PIZZA
+sup,TIME
+i want cheese pizza,TIME
+snow,GREET
+What time is it?,TIME
+order me some pizza,WEATHER
+months,JOKE
+let's get some pizza,TIME
+hi jarvis,GREET
+what time does your watch say it is?,TIME
+days,TIME
+hey,GREET
+call in for a pizza pie,PIZZA
+cloudy,WEATHER
+tell me a joke,JOKE
+please get some pizza for me jarvis,PIZZA
+hahaha that was hilarious,JOKE
+it is sunny out today,WEATHER
+will it rain today?,WEATHER
+how has your week gone?,GREET
+i want to hear something funny,JOKE
+how has your day been?,GREET
+is it hot outside?,WEATHER
+what time is it right now?,TIME
+what day was yesterday?,TIME
+what time does it say on the clock?,TIME
+what time of day is it?,TIME
+tell me funny jokes jarvis,JOKE
+tell me the current time,TIME
+laugh,JOKE
+year,TIME
+i am hungry for pepperoni pizza,PIZZA
+howdy,GREET
+hello,GREET
+what is up jarvis?,GREET
+call in an order for a pizza,PIZZA
+what is the temperature like outside today?,WEATHER
+how have you been?,GREET
+i am so hungry for a slice of pizza,PIZZA
+get a large pizza,PIZZA
+chuckle,JOKE
+joke,JOKE
+funny,JOKE
+what's up?,GREET
+is it cold outside?,WEATHER
+jarvis be a stand up comic,JOKE
+how are you,GREET
+hello jarvis,GREET
+I don't want anchovies,PIZZA
+it is beautiful sunshine we are having,WEATHER
+stone fired pizza,PIZZA
+Why Did the Chicken croSs the RoAd,JOKE
+How are you doing.,GREET
+cloudy all day,WEATHER
+which came first the chicken or the egg,JOKE
+velcro -- what a rip off,JOKE
+What a lot of rain,WEATHER
+never throw out the baby with the bathwater,JOKE
+Never stop thinking about tomorrow,JOKE
+rain rain go away,WEATHER
+Hello,GREET
+Hi there,GREET
+I want a pizza,PIZZA
+How's it going dude,GREET
+Pizza pizza PIZZA,PIZZA
+that didn't take long,TIME
+why did the chicken cross the road,JOKE
+Welcome,GREET
+what happened to the semi-colon that broke the law,JOKE
+snow Snow and more SNOW,WEATHER
+what is the hour,TIME
+There are six seconds left in the game,TIME
+can you tell me the time,TIME
+get me a slice of pizza,PIZZA
+mushrooms peppers and onions,PIZZA
+Time time TIME tIME,TIME
+its snowing outside,WEATHER
+what time is it,TIME
+more wet weather,WEATHER
+take your coat off and stay a while,GREET
+seasons greatings,GREET
+how many government bureaucrats does it take to change a light bulb,JOKE
+we only have a few minutes,TIME
+It is a two hour drive,TIME
+why should you never trust an atom,JOKE
+Hi,GREET
+mix of sun and clouds,WEATHER
+that took a while,TIME
+what TIME is it,TIME
+What time is it?,TIME
+How cold will it be today?,WEATHER
+Is it nice outside?,WEATHER
+Will it rain today?,WEATHER
+What is the weather right now?,WEATHER
+What is the time?,TIME
+Are you there?,GREET
+Hi,GREET
+What's up?,GREET
+Are you online?,GREET
+Greetings!,GREET
+I am starving!,PIZZA
+I'm bored,JOKE
+Will I need an umbrella today?,WEATHER
+Tell me something funny!,JOKE
+Where are you?,GREET
+Make me laugh!,JOKE
+Please order some food.,PIZZA
+How early is it?,TIME
+How cold is it outside?,WEATHER
+I am feeling hungry,PIZZA
+I would like a slice of pizza,PIZZA
+Can you order some lunch?,PIZZA
+I am afraid I will be late,TIME
+Hi Jarvis!,GREET
+Have you heard any good jokes lately?,JOKE
+Entertain me,JOKE
+Do you know any jokes?,JOKE
+it is lunch time!,PIZZA
+What time do you have?,TIME
+Hello,GREET
+Time?,TIME
+What hour is it?,TIME
+Will it be sunny?,WEATHER
+Knock Knock!,JOKE
+Food?,PIZZA
+Could you cheer me up?,JOKE
+Please get some pizza,PIZZA
+Tell a joke!,JOKE
+What is the weather like today?,WEATHER
+How much will it snow today?,WEATHER
+How are you?,GREET
+Do you know what time it is?,TIME
+Tell me a joke that makes me laugh,JOKE
+How's the weather like,WEATHER
+what is the current time,TIME
+"Can I order a pizza for delivery?
+",PIZZA
+I want pizza,PIZZA
+Can I have a slice of pizza?,PIZZA
+What is the weather like today,WEATHER
+Would you please tell me a joke,JOKE
+What is the time,TIME
+Tell me a joke,JOKE
+What is going on?,GREET
+What time is it now?,TIME
+What is the weather like tomorrow?,WEATHER
+How was the weather like yesterday?,WEATHER
+I want a funny joke,JOKE
+Can I order a pizza for pickup?,PIZZA
+Do you have the time,TIME
+What time is it,TIME
+can you tell me the time,TIME
+WEATHER,WEATHER
+What is the joke for today?,JOKE
+Halo,GREET
+Is it hot out?,WEATHER
+Please me tell me a joke,JOKE
+Can you tell me a hilarious joke?,JOKE
+What size of pizza do you like?,PIZZA
+What type of pizza do you like?,PIZZA
+Can you tell a funny joke?,JOKE
+What's up,GREET
+what is the time,TIME
+May I order a cheese pizza?,PIZZA
+What time is it right now?,TIME
+Is it going to snow tomorrow?,WEATHER
+Can I order a pizza,PIZZA
+Hi,GREET
+What's going on?,GREET
+Is it cold out?,WEATHER
+Can you tell me the time?,TIME
+Is it going to rain?,WEATHER
+How are you?,GREET
+Tell me a joke,JOKE
+"hey, what is up.",GREET
+Do you know any good jokes?,JOKE
+thats not very funny,JOKE
+Good night,GREET
+what do you want on your pizza,PIZZA
+What time is it,TIME
+tell me the weather,WEATHER
+I want a pizza,PIZZA
+はじめまして,GREET
+Hi,GREET
+"for pizza crust, we have new york, new england greek style, grilled, deep dish, stuffed, cast iron, flatbread, cracker crust, st.louis, whole wheat, multigrain, romana, neapolitan, sicilian, neo-neapolitan and detroit.",PIZZA
+make me laugh,JOKE
+I'm finished.,WEATHER
+When is supper?,TIME
+can you give me the weather report?,WEATHER
+What's the weather like?,WEATHER
+What time is it right now?,TIME
+Please wake me up at six o’clock tomorrow morning,TIME
+what's for lunch?,PIZZA
+What time is it?,TIME
+Pizza chain reviews,PIZZA
+what's the weather like,WEATHER
+Does your clock tell you the right time? It is slow.,TIME
+Hello there!,GREET
+Happy Birthday!,GREET
+"i like the spring in guangzhou, it is usually breezy and not too hot.",WEATHER
+make me laugh Jarvis,JOKE
+please find a funny joke over the internet,JOKE
+give me pizza,PIZZA
+I like the pizza with cheese and pepperoni on the top,PIZZA
+She's a funny person,JOKE
+how much shall we tip the waiter?,PIZZA
+PIZZA,PIZZA
+What time is it?,TIME
+order a pizza,PIZZA
+get and eat some pizza,PIZZA
+I presented a seminar yesterday,TIME
+Its a quarter past midnight,TIME
+how are you doing,GREET
+It's very humid in Luisiana,WEATHER
+Where can I get a pizza?,PIZZA
+What's the temperature?,WEATHER
+You're silly.,JOKE
+"hello, its been quite a long time since Ive talked to you!",GREET
+Sayonara,GREET
+what year is this year,TIME
+Hey there!,GREET
+What time is it,TIME
+It's already 10 o'clock,TIME
+What is the time?,TIME
+what is the hour,TIME
+what time shall we meet tomorrow? we need to make an appointment today.,TIME
+I can only eat one more slice,PIZZA
+Do you like pizza?,JOKE
+nice to meet you,GREET
+What time is it going to snow?,TIME
+hey,GREET
+How's the weather? The temperature is minus ten.,WEATHER
+hi,GREET
+That's the funniest thing I've ever heard,JOKE
+Welcome back to work! I hope you had a wonderful vacation.,GREET
+It's nice and sunny,WEATHER
+how have you been,GREET
+Pizza is my favorite food to eat.,PIZZA
+Hello,GREET
+Good morning Jarvis!,GREET
+they serve refreshments in the seminar,PIZZA
+what time is it,TIME
+"jarvis, do you know a joke?",JOKE
+hey,GREET
+What time is it?,TIME
+I have no time for this right now,TIME
+Are you hungry for pizza,PIZZA
+go say hello,GREET
+When's my class tomorrow?,TIME
+How's your day going?,GREET
+i do not want to live in a place where there is typhoon or sandstorm.,WEATHER
+That wind is cold.,WEATHER
+Do you have emotions?,JOKE
+Bonjour,GREET
+how do you do?,GREET
+Talking a lot of jokes doesn't mean a sense of humor,JOKE
+How do you make a hormone?,JOKE
+"What's up, dude",GREET
+what time will they be here,TIME
+how's the weather,WEATHER
+What kind of pizza do they have?,PIZZA
+Tell us a joke to liven things up.,JOKE
+You are always kidding around.,JOKE
+What time does the sun rise,TIME
+the time today is going fast,TIME
+Welcome to my home,GREET
+What time is it?,TIME
+you can have the last piece of pizza,PIZZA
+Bye bye,GREET
+It’s nice to meet you.,GREET
+Are you male or female?,JOKE
+What time,TIME
+pizza is so delicious!,PIZZA
+whats the current time,TIME
+what's for dinner?,PIZZA
+how are you doing,GREET
+It was only a practical joke,JOKE
+It is cloudy and windy.,WEATHER
+What time is it?,TIME
+it's half past three,TIME
+the average annual precipitation is 36.8 inches.,WEATHER
+Impress me.,JOKE
+Hajimemashite,GREET
+it's early,TIME
+What time is it?,TIME
+the pizza is delicious and tasty without cheese,PIZZA
+i know how to make the ham pizza,PIZZA
+"typical slangs for greeting includes: yo, howdy, sup, whazzup, g’day mate, hiya.",GREET
+Many people lost their homes because of Hurricane Katrina,WEATHER
+Good morning,GREET
+is there a pizza place nearby?,PIZZA
+Do I need an umbrella today?,WEATHER
+Hey Jarvis I'm having a great day.,GREET
+Can you get me some pizza?,PIZZA
+what is the weather like,WEATHER
+It is a pleasure to be in touch with you again.,GREET
+"There are only two hours and five minutes left, I have to arrive at 7:00pm.",TIME
+howdy,GREET
+good afternoon,GREET
+When is the party,TIME
+it is sunny outside.,WEATHER
+"hi, my name is lily.",GREET
+I want food!,PIZZA
+How are you?,GREET
+"Hello, Jarvis!",GREET
+Are you a comedian?,JOKE
+"Hey, what's going on",GREET
+"A statistician, data scientist, and machine learner walk into a bar",JOKE
+this is a joyful event. everyone are smiling.,JOKE
+Do I need my rain coat?,WEATHER
+"knock knock, who's there",JOKE
+It's a beautiful day for a hike.,WEATHER
+Is it going to snow today?,WEATHER
+second,TIME
+How is it going?,GREET
+what is the flovor of pizza?,PIZZA
+Hola,GREET
+I was joking,JOKE
+the weather forecast says there is going to be a thunderstorm later.,WEATHER
+hi how are you,GREET
+Is it cold outside?,WEATHER
+What's up,GREET
+i'm hungry for pizza,PIZZA
+it's drizzling cold,WEATHER
+when did you start it that afternoon,TIME
+how is it outside,WEATHER
+What's the forecast for tomorrow,WEATHER
+"New York uses Eastern Daylight Time Zone right now, which is UTC-05:00",TIME
+"sorry, we do not offer home delivery for the pizza.",PIZZA
+shall we order a pizza?,PIZZA
+It's cold in here!,WEATHER
+i cannot stop laughing.,JOKE
+tell me something funny,JOKE
+Why did the chicken cross the road?,JOKE
+I'm hungry,PIZZA
+It's very hot in India,WEATHER
+School is canceled because of snow storm; I love snow days.,WEATHER
+it's a quarter to seven,TIME
+It might snow today,WEATHER
+You crack me up.,JOKE
+time,TIME
+Yo,GREET
+How's it going,GREET
+good afternoon,GREET
+What is it like outside,WEATHER
+i like jokes,JOKE
+"Hello, how are you? I hope you are healthy and happy.",GREET
+Nice to see you!,GREET
+"Lovely morning, isn't it?",GREET
+When is the sun going to come out,WEATHER
+What time is it?,TIME
+Time?,TIME
+How's it going?,GREET
+Are you alright,GREET
+I'd like some food,PIZZA
+what time will you be here,TIME
+what month is this month,TIME
+weather forecast is for showers and overcast skies,WEATHER
+Is it going to rain today?,WEATHER
+nice to meet you,GREET
+is it hot,WEATHER
+i want to giggle,JOKE
+thats a great joke!,JOKE
+"Can we order a pizza, please?",PIZZA
+hows's the weather,WEATHER
+my friend Alice tells the best jokes,JOKE
+Look at that sun shine,WEATHER
+What do you want on your flatbread.,PIZZA
+What is filled with holes but still holds water?,JOKE
+He bridged a gap in the conversation by telling a joke.,JOKE
+"for pizza topping, we have pepperoni, mushrooms, onions, sausage, bacon, extra cheese, black olives, green peppers, pineapple and spinach.",PIZZA
+The will come out tomorrow,WEATHER
+"hey, hows it going?",GREET
+What's the John Dory,GREET
+It's supposed to clear up later.,WEATHER
+Will it snow much this winter,WEATHER
+what is the time,TIME
+Donald Trump,JOKE
+It is time for class,TIME
+I love pizza,PIZZA
+Pizza isn't very healthy to be honest,PIZZA
+good morning,GREET
+"Some possible topping options include sausage, pineapple, broccoli, anchovies, bacon, and ham",PIZZA
+whats the weather,WEATHER
+"It’s pretty cloudy outside, I’d better take an umbrella.",WEATHER
+Greetings to you and your family.,GREET
+I'm sick of this diet,PIZZA
+i was busy yesterday.,TIME
+You can also get veggies on your pizza!,PIZZA
+Hey,GREET
+It is snowing heavily these days. We are going to have a perfect ski season.,WEATHER
+can you give me the weather,WEATHER
+are you hungry?,PIZZA
+Do you have the time please,TIME
+do you have a watch？,TIME
+Hello,GREET
+I think its going to be rainy,WEATHER
+Will it be nice today?,WEATHER
+"there are seven days in a week: monday, tuesday, wednesday, thursday, friday, saturday and sunday.",TIME
+Its way too early in the morning,TIME
+"Hi, how are you",GREET
+Can you tell me the time right now?,TIME
+hello Jarvis,GREET
+hi,GREET
+hheeeeyyyy,GREET
+What’s the special pizza for dinner?,PIZZA
+What time is it?,TIME
+what's your name?,GREET
+What time is my class today?,TIME
+My joke made everybody laugh.,JOKE
+It's hilarious funny,JOKE
+How many workers does it take to screw in a lightbulb?,JOKE
+he is so witty that i am always happy when staying with him.,JOKE
+the sky is overcast,WEATHER
+"He was so funny, he made us scream with laughter.",JOKE
+What time do the malls open?,TIME
+"during summer, the average temperature is around 70 degree f or 21 degree c.",WEATHER
+Who loves Jarvis?,JOKE
+Are you handsome?,JOKE
+Time in India?,TIME
+What's the time?,TIME
+how are you doing jarvis?,GREET
+Let us play a joke on him.,JOKE
+can you get me some pizza,PIZZA
+I dont know the time unfortunately,TIME
+whats up jarvis?,GREET
+Hey! I am the conversation robot Jarvis.,GREET
+good afternoon,GREET
+quartz clock is usually accurate.,TIME
+My favorite food is pizza!,PIZZA
+Can you tell me the time right now?,TIME
+how is it going,GREET
+What is the time?,TIME
+it usually starts to get cold and snow after halloween.,WEATHER
+What is your favorite time of day,TIME
+What do robots eat?,JOKE
+"i did a lot of things in the morning, at noon, in the afternoon, in the evening, at night and even midnight.",TIME
+I like pizza with a thick crust but I also like the crust to be somewhat crunchy.,PIZZA
+joke,PIZZA
+Are you in love?,JOKE
+I'm just joshin,JOKE
+Diners near me,PIZZA
+pizza is good,PIZZA
+It looks like it's about to rain,WEATHER
+what are the weather conditions,WEATHER
+what are the conditions outside,WEATHER
+Joke can make you laugh,JOKE
+how do you do,GREET
+PIZZA,PIZZA
+how are you,GREET
+"hello jarvis, my name is David",GREET
+would you like something to eat?,PIZZA
+that is a funny story.,JOKE
+When will you come in the afternoon today?,TIME
+what time is it now?,TIME
+is it sunny outside?,WEATHER
+gimme pizza,PIZZA
+give me a joke,JOKE
+tell me a joke,JOKE
+Is time relative,TIME
+Do you know what time it is?,TIME
+Robots can't eat pizza.,PIZZA
+Winter is coming; it will be very cold this year.,WEATHER
+how are you,GREET
+time,TIME
+I want to eat,PIZZA
+He is always so sarcastic,JOKE
+How is your day going?,GREET
+My favorite kind of pizza is pepperoni pizza.,PIZZA
+how's life,GREET
+Get me the temperature,WEATHER
+He knows a lot of jokes,JOKE
+how is pizza?,PIZZA
+there are a lot of great italian restaurants here that have delicious pizza.,PIZZA
+it is nice to meet you.,GREET
+Hey! I am Jarvis.,GREET
+the pizza base retains crispness,PIZZA
+Want to hear a joke,JOKE
+"don’t be mad, i am only joking.",JOKE
+hi,GREET
+i want pizza,PIZZA
+it is partly cloudy,WEATHER
+Get me some pizza,PIZZA
+"my stove is not working, i cannot cook the pizza.",PIZZA
+what time is it right now?,TIME
+There is a warm breeze from the south.,WEATHER
+Do they make gluten free pizza?,PIZZA
+It's sunny outside right now.,WEATHER
+What's the forecast?,WEATHER
+how's your day?,GREET
+weather forecast please,WEATHER
+what do you do this evening,TIME
+say something funny!,JOKE
+Are you serious,JOKE
+weather,JOKE
+What time is the seminar tomorrow?,TIME
+It's kinda cold today,WEATHER
+it's a funny joke,JOKE
+It's rainy yesterday,WEATHER
+good morning.,GREET
+Please order me a pizza,PIZZA
+It is a beautiful day,WEATHER
+What is your favorite kind of pizza,PIZZA
+"Hey, How’s it going?",GREET
+pleased to meet you,GREET
+"there are twelve months in a year: january, february, march, april, may, june, july, august, september, october, november, december.",TIME
+do you have the time,TIME
+in warm weather you can wear cool and comfortable clothing,WEATHER
+what up,GREET
+How are you doing?,GREET
+What time is it?,TIME
+Greetings,GREET
+Whats the weather like up there?,WEATHER
+We'll have a big snow tomorrow,WEATHER
+i love hearing jokes,JOKE
+Namastey,GREET
+you and i can send out for a pizza,PIZZA
+what's the time,TIME
+can you tell me the time right now,TIME
+So a man and his parrot walk into a bar...,JOKE
+Bonjour,GREET
+How’s your day going?,GREET
+"Papa John's pizza is a really famous place for pizza, but I prefer to the Dominos",PIZZA
+time to greet the freshmen!,GREET
+give me the weather,WEATHER
+How are you doing?,GREET
+i want to eat some pizza,PIZZA
+Time please.,TIME
+I like eating pizza for lunch because it tastes good.,PIZZA
+"It might snow, but Im not entirely sure",WEATHER
+how long does it take,TIME
+Find some Jokes for me please,JOKE
+Is it going to rain today?,WEATHER
+it is hot out,WEATHER
+Bye,GREET
+where is a good restaurant?,PIZZA
+Do you like pizza,PIZZA
+what's the temperature outside,WEATHER
+This weather is so nice!,WEATHER
+I'm hungry,PIZZA
+nock nock,JOKE
+get me some pizza,PIZZA
+Do you like calzones.,PIZZA
+Suprise me.,JOKE
+do you know something funny?,JOKE
+the pizza will be here in a moment,PIZZA
+The joke really cracked us up.,JOKE
+What time is it?,TIME
+is it a joke in incredibly poor taste,JOKE
+"Jarvis, what time is it?",TIME
+the chosen joke is no longer just a joke,JOKE
+how can i share a pizza with you,PIZZA
+What is the temperature outside.,WEATHER
+time,TIME
+Do you want to order the meat one or veggie one,PIZZA
+it it going to freeze tonight?,WEATHER
+I like pizza,PIZZA
+greet,GREET
+Is it supposed to be sunny today?,WEATHER
+Good bye,GREET
+"Hi, what’s up?",GREET
+Until when did this class last yesterday?,TIME
+Will it rain tomorrow?,WEATHER
+it's rainy raining wet damp,WEATHER
+You can order the pizza online and choose either delivery or carry out,PIZZA
+The wind is very strong and the thunder is loud.,WEATHER
+What time is it?,TIME
+What time is it?,TIME
+hello,GREET
+What time is it?,TIME
+what's the time right now?,TIME
+make me giggle,JOKE
+"Hello ladies and gentlemen, boys and girls",GREET
+what time is it,TIME
+do you have any jokes,JOKE
+Do you happen to have the time?,TIME
+What's the time?,TIME
+"hey, nice to see you again",GREET
+Why do you like that wet bread?,PIZZA
+moment,TIME
+It's really hot today,WEATHER
+Do you have the time Jarvis?,TIME
+it is cold out,WEATHER
+what's up,GREET
+"hello jarvis, my name is David",GREET
+where did the time go,TIME
+tell me the time,TIME
+Get some pizza for me,PIZZA
+The humidity is a little low today,WEATHER
+"knock, knock",JOKE
+Will it be rainy today?,WEATHER
+"Today is October 22, 2016",TIME
+what time is it now,TIME
+"i usually wakes up at 7 am o’clock sharp, and go to bed around 11 pm o’clock.",TIME
+It's sunny today,WEATHER
+Hello Jarvis,GREET
+i'd like to hear a joke,JOKE
+What's up?,GREET
+the weather is good unkind bad and unpredictable,WEATHER
+Pizza is my favorite food,PIZZA
+It’s so hot outside! I sweated like a dog!,WEATHER
+Good evening,GREET
+Do you like pizza?,PIZZA
+give me the time,TIME
+can you tell me the time,TIME
+How's it going today,GREET
+Hi there,GREET
+I don't enjoy the rainy season.,WEATHER
+What were you doing this time last year?,TIME
+I'd like to have some pizza for the dinner,PIZZA
+I'm joking,JOKE
+Restaurant reviews,PIZZA
+What time is it?,TIME
+"Hello, Jarvis",GREET
+greetings earthlings!,GREET
+how are you doing today?,GREET
+I get a pizza delivery from the nearest Leonardo’s Pizza.,PIZZA
+it is hilarious.,JOKE
+tell me something funny,JOKE
+"It’s so sunny outside, not a cloud in the sky.",WEATHER
+"It rained heavily a few minutes ago, I can see a rainbow now.",WEATHER
+tell me a joke,JOKE
+tell me a joke,JOKE
+"I’m good, what about you?",GREET
+What's up,GREET
+'I Started a Joke' -  The Bee Gees,JOKE
+Is it hot outside?,WEATHER
+What's the weather?,WEATHER
+Italians make great pizza,PIZZA
+I cant wait until the pizza man arrives,PIZZA
+Hola,GREET
+tell me a good joke please!,JOKE
+what's it like out there,WEATHER
+I don't like this weather. It's too cold,WEATHER
+Long time no see,GREET
+How's the weather,WEATHER
+it is quite cloudy with scattered shower.,WEATHER
+What time is it?,TIME
+"Pizza is an oven-baked flatbread typically topped with a tomato sauce, cheese and various toppings.",PIZZA
+I forgot to eat!,PIZZA
+Top of the morning to you.,GREET
+Time?,TIME
+"Jarvis, what time is it?",TIME
+They usually serve pizza for seminars in our dept.,PIZZA
+Do you know a joke?,JOKE
+Want to make some pizza at my house,PIZZA
+get me pizza,PIZZA
+My watch has stopped. Could you please tell me the time?,TIME
+it's late midnight now,TIME
+Good afternoon,GREET
+merry christmas and happy new year.,GREET
+Hello,GREET
+"Jarvis, what's current time?",TIME
+Why do people talk about the weather so often,WEATHER
+What does Gary say it is going to be like today.,WEATHER
+I'd like to have a piece of pizza. For here or to go?,PIZZA
+What's the time,TIME
+do you want to eat some pizza,PIZZA
+What toppings do you like on your pizza,PIZZA
+it is sunny out,WEATHER
+can you talk about the weather,WEATHER
+i joke with you,JOKE
+good night,GREET
+i use packets of pizza dough mix,PIZZA
+how are you,GREET
+Where is the closest pizza store to me?,PIZZA
+I'd like to order a pizza,PIZZA
+I get to work early in themorning at 6:50am,TIME
+Haha for this joke,JOKE
+Can I have some pizza,PIZZA
+"I like cheese, mushrooms, and chicken on mine.",PIZZA
+whats up,GREET
+good morning,GREET
+Its 3pm in the afernoon,TIME
+long time no see,GREET
+it's been a while,GREET
+What time do you go to sleep,TIME
+What's your name?,GREET
+Do you have a sense of humor?,JOKE
+knock knock. whos there?,JOKE
+How hot is it supposed to be.,WEATHER
+where can I get Pizza nearby?,PIZZA
+Are you a boy or a girl?,JOKE
+That is a hilarious joke.,JOKE
+the breeze is blowing,WEATHER
+say something funny,JOKE
+It's very nice out today,WEATHER
+weather,WEATHER
+It'll rain tomorrow,WEATHER
+is the pizza fresh?,PIZZA
+What's the funniest joke of all time?,JOKE
+what day is yesterday,TIME
+The moon pales the stars with her brilliance,WEATHER
+you are joking,JOKE
+TIME,TIME
+Are you hungry?,JOKE
+What time is the movie.,TIME
+make me laugh,JOKE
+What's the forecast for today.,WEATHER
+Can we meet early morning the day after tomorrow,TIME
+what an amusing joke.,JOKE
+How's it going?,GREET
+What day is it today,TIME
+Time flies when youre having fun!,TIME
+can you tell me the time?,TIME
+i want to laugh,JOKE
+jokes can help us relieve our pressure.,JOKE
+i sleep by night,TIME
+Nice to meet you,GREET
+Hi how's it hanging?,GREET
+What's the time?,TIME
+What kind of the sauces do you like,PIZZA
+where can I find food?,PIZZA
+"there are seven days in a week: monday, tuesday, wednesday, thursday, friday, saturday and sunday.",TIME
+hello,GREET
+Do we get Pizza at SCRAPS tomorrow?,PIZZA
+How many slices of pizza can you eat,PIZZA
+i do it as a joke,JOKE
+Do you know a Joke?,JOKE
+What's new,GREET
+it's ten o'clock,TIME
+"How about Vegetarian, Meat lover’s or Combination?",PIZZA
+"Unfortunately, I am allergic to cheese",PIZZA
+please tell the time?,TIME
+When should we meet tomorrow,TIME
+You wouldn't happen to have the time?,TIME
+give me the time,TIME
+Is pizza your favorite food,PIZZA
+can you tell me the time,TIME
+Are you kidding me? That's unbelievable!,JOKE
+When do we leave.,TIME
+good evening,GREET
+hey,GREET
+What time does the class start?,TIME
+what time was it in the morning,TIME
+Seems like the weatherman is never correct in his forecasts,WEATHER
+"hello, how are you?",GREET
+How are you,GREET
+Say something new.,JOKE
+My favorite topping on pizza is pepperoni,PIZZA
+can I get the time,TIME
+You are funny,JOKE
+Good Night Jarvis!,GREET
+It is a pleasure to be in touch with you again.,GREET
+Windy days are best for kiting.,WEATHER
+long time no see. how is everything?,GREET
+I go home in the evening,TIME
+What will the weather be like tomorrow?,WEATHER
+wheres the pizza,PIZZA
+Find me pizza,PIZZA
+What's the time in Burlingnton right now,TIME
+Is that today?,TIME
+Can we change the subject,JOKE
+do you like pizza?,PIZZA
+"My favorite toppings on pizza are pepperoni, mushrooms, basil, garlic, pineapple, olive, jalapeno, grilled chicken, meatball, bacon, sausage and mozzarella.",PIZZA
+Today's forecast is a high of 55 and partly cloudy.,WEATHER
+What's happening with you Jarvis?,GREET
+Can you tell me the time right now?,TIME
+hi,GREET
+My favorite comedian is Chris Rock,JOKE
+the jokes got a big laugh,JOKE
+When I am bored I enjoy eating pizza.,PIZZA
+Are you gonna meet with your boss next Monday,TIME
+I'm having the time of my life,TIME
+alright,GREET
+It's snowing outside!,WEATHER
+i work from dawn till dusk,TIME
+Do you want pizza for dinner,PIZZA
+please tell me the time,TIME
+"he finished it in 3 hours, 34 minutes and 2 seconds.",TIME
+There was a lot of rain yesterday,WEATHER
+greet her with kindness,GREET
+I love eating the crusts of this pizza,PIZZA
+the pizza will be here soon,PIZZA
+would you like to tell some jokes,JOKE
+you can go for a pizza,PIZZA
+good morning,GREET
+where is a good diner?,PIZZA
+yo,GREET
+"Give me some pizza, please.",PIZZA
+Can you tell me the time?,TIME
+Have a great weekend,GREET
+Get some pizza for me,PIZZA
+The trick to telling jokes is to nail the punchline,JOKE
+How do you do,GREET
+"Jarvis, do you know what the weather's going to do?",WEATHER
+joke,JOKE
+I'll be very windy tomorrow,WEATHER
+I cant stop laughing at the joke!,JOKE
+The winter's coming,WEATHER
+good to see you,GREET
+What time does the pizza place close?,TIME
+What's your favorite food?,JOKE
+Which pizza crust do you like? Hand tossed or crunchy thin crust,PIZZA
+Clouds had come down and it was starting to drizzle,WEATHER
+"do you know how old he is, which year he was born, and his birthday?",TIME
+how are you?,GREET
+How have you been?,GREET
+I ended off his talk with a funny joke.,JOKE
+make me laugh,JOKE
+lets get food,PIZZA
+be humorous,JOKE
+yo,GREET
+how how it is it,WEATHER
+i want food,PIZZA
+lets get delivery,PIZZA
+order me pizza please,PIZZA
+do i need a jacket,WEATHER
+make me laugh,JOKE
+im hungry,PIZZA
+feed me,PIZZA
+temperature,WEATHER
+is it cold?,WEATHER
+How late is it?,TIME
+time,TIME
+be funny,JOKE
+sup g,GREET
+how cold is it,WEATHER
+Do you have the time?,TIME
+tell me a joke,JOKE
+hey,GREET
+do you know any jokes,JOKE
+is it warm?,WEATHER
+lets laugh,JOKE
+Hello Jarvis,GREET
+whats the time,TIME
+when should we,TIME
+joke,JOKE
+pizza,PIZZA
+How early is it?,TIME
+lets get pizza,PIZZA
+hi jarvis,GREET
+Robots will never take over the world. Give up now.,GREET
+lets hear a joke,JOKE
+whats the temperature,WEATHER
+i want pizza,PIZZA
+whats the temp,WEATHER
+What time is it?,TIME
+when do we have to,TIME
+whats the weather,WEATHER
+do you have a sense of humor,JOKE
+sometime in July is when the test it,TIME
+hey man!,GREET
+when?,TIME
+how is it going?,GREET
+I need a new funny joke,JOKE
+"""Jarvis, pull up the weather report",WEATHER
+at what time exactly?,TIME
+In the past or future?,TIME
+its good to see you again,GREET
+why did the chicken cross the road?,JOKE
+the pizza cost me $19.95,PIZZA
+whats the temperature,WEATHER
+What do you call a penguin that fell down the stairs?,JOKE
+i need to be put in a better mood,JOKE
+Whats cracking?,GREET
+what is the chance it will rain today?,WEATHER
+get me pizza,PIZZA
+It was so hot out at the beach today!,WEATHER
+Long time no see,GREET
+my alarm is set for 7:49 a.m.,TIME
+at what hour,TIME
+"""I was born 1995, in September",TIME
+how close is that hurricane?,WEATHER
+what time is it,TIME
+Do i need to wear a raincoat or is it sunny outside?,WEATHER
+is the pizza ready yet?,PIZZA
+tell me a good joke,JOKE
+pull up that pizza recipe,PIZZA
+what going on!,GREET
+can I get a slice of that?,PIZZA
+I need to work on my comedic presence,JOKE
+what toppings do you like?,PIZZA
+what's up?,GREET
+is it a nice day or a bad day outside?,WEATHER
+can you tell me the time right now?,TIME
+whats new?,GREET
+Good morning!,GREET
+can you make me laugh,JOKE
+why was six afraid of seven?,JOKE
+whats the wind chill today?,WEATHER
+forcast for today,WEATHER
+tell me a joke jarvis,JOKE
+order pizza,PIZZA
+how are you jarvis,GREET
+i want pizza,PIZZA
+id like to know the weather jarvis,WEATHER
+whats the weather like jarvis,WEATHER
+weather,WEATHER
+jarvis time,TIME
+forcast,WEATHER
+pizza,PIZZA
+whats up,GREET
+could you tell me the time,TIME
+please get me a pizza,PIZZA
+hey jarvis,GREET
+when,TIME
+what time is it jarvis,TIME
+funny,JOKE
+tell me the weather,WEATHER
+order me a pizza,PIZZA
+please time me,TIME
+what time is it,TIME
+time,TIME
+wether,WEATHER
+joke,JOKE
+get a pizza,PIZZA
+tell me the time,TIME
+say something funny,JOKE
+hi,GREET
+how is your day going jarvis?,GREET
+whats the temperature,WEATHER
+tell me a joke jarvis,JOKE
+whats the weather like jarvis,WEATHER
+hello jarvis,GREET
+whats funny,JOKE
+tell me dat time,TIME
+heyo,GREET
+please pizza me,PIZZA
+place an order,PIZZA
+joke with me,JOKE
+It's good to see you!,GREET
+"Hey, how are you?",GREET
+Good morning.,GREET
+"Tell me the time, please.",TIME
+"Make a joke, please.",JOKE
+Say something to make me laugh.,JOKE
+What is the weather like outside?,WEATHER
+I need you to order a pizza.,PIZZA
+Get me a large pepperoni and wings.,PIZZA
+Go order a pizza.,PIZZA
+Please inform me of the current temperature.,WEATHER
+What is the current time?,TIME
+Tell me a joke.,JOKE
+Is it snowing now?,WEATHER
+I'd really like you to get a medium cheese pizza.,PIZZA
+Could you tell me the current weather?,WEATHER
+Call the pizzeria.,PIZZA
+Check the current weather.,WEATHER
+What hour is it now?,TIME
+Place an order for delivery.,PIZZA
+Can you go order a pizza for me?,PIZZA
+What time is it?,TIME
+Could you order some pizza?,PIZZA
+"Yo, how's it going?",GREET
+Hello.,GREET
+Get me the time.,TIME
+Hey there.,GREET
+Is it raining outside?,WEATHER
+I'm bored. Got any good jokes?,JOKE
+"Hi, how have you been?",GREET
+Go check the time.,TIME
+Say a funny joke!,JOKE
+When is it?,TIME
+Can you tell me a joke?,JOKE
+How is it going?,GREET
+Hello.,GREET
+Pepperoni pizza is very salty.,PIZZA
+what time is it now?,TIME
+eating the pizza,PIZZA
+time is money.,TIME
+How's the weather in Boston?,WEATHER
+Was that a joke?,JOKE
+Long time no see.,GREET
+"""Great weather, isn't it?",WEATHER
+domino's pizza is delicious.,PIZZA
+tell a joke.,JOKE
+"""If you canâ€™t convince them, confuse them.",JOKE
+It's been a long time,TIME
+what's up?,GREET
+Take your time.,TIME
+Howâ€™s everything?,GREET
+The weather has improved.,WEATHER
+It is cold today.,WEATHER
+weahter is good!,WEATHER
+Why don't we order pizza?,PIZZA
+I could go for a nice hot pizza right now.,PIZZA
+Do not argue with an idiot. He will drag you down to his level and beat you with experience.,JOKE
+Tom ate the whole pizza by himself.,PIZZA
+Let's greet our guests.,GREET
+What's your favorite pizza topping?,PIZZA
+I like BBQ chicken pizza.,PIZZA
+how are you?,GREET
+It is raining outside.,WEATHER
+Have a good time.,TIME
+You had plenty of time.,TIME
+I need more time,TIME
+I'm used to this cold weather.,WEATHER
+hows it going,GREET
+i want pizza,PIZZA
+what temperature is it,WEATHER
+is it raining,WEATHER
+whats crackin,GREET
+im hungry for pizza,PIZZA
+i want dinner,PIZZA
+hi,GREET
+pizza please,PIZZA
+can you tell me the time,TIME
+whatâ€™s the weather,WEATHER
+whats the time,TIME
+what time is it jarvis,TIME
+is it a shorts or pants day today,WEATHER
+is it night yet,TIME
+What's the hour,TIME
+its dinner time,PIZZA
+i want to hear something funny,JOKE
+whats up,GREET
+What's the hour,TIME
+is it cold out,WEATHER
+tell me something funny,JOKE
+What it is the time,TIME
+i need a joke,JOKE
+is it a shorts day today,WEATHER
+What time it is?,TIME
+hear any good jokes lately,JOKE
+howdy,GREET
+tell me a joke,JOKE
+time me,TIME
+what time is it,TIME
+make me laugh,JOKE
+wassuup,GREET
+whatâ€™s the temp,WEATHER
+is it a shorts day or a pants day today,WEATHER
+GREET,GREET
+wassup,GREET
+hey,GREET
+is it nice out,WEATHER
+should i wear a jacket,WEATHER
+wazzup,GREET
+i need to eat dinner,PIZZA
+TIME,TIME
+please tell me what time it is,TIME
+whatâ€™s the weather like,WEATHER
+hello,GREET
+is it raining cats and dogs,WEATHER
+im craving pizza,PIZZA
+i need the time,TIME
+what time it is?,TIME
+what time it is,TIME
+what's the temperature,WEATHER
+im sad,JOKE
+one pie please,PIZZA
+can I have one pepperoni and one Hawaiian?,PIZZA
+hello jarvis.,GREET
+hi,GREET
+what is the temperature jarvis?,WEATHER
+when is it,TIME
+when is it today,TIME
+lets hear a wise crack jarvis!,JOKE
+is it cold out?,WEATHER
+i'd enjoy a quip from you jarvis,JOKE
+hey how are you?,GREET
+hey how the heck is it going?,GREET
+a large veggie and uh maybe a slice or two of meat lovers jarvis,PIZZA
+can I order a pizza please?,PIZZA
+hit me up with some pizzapie jarvy,PIZZA
+hey jarvis hit me up with a cheese pizza,PIZZA
+hey,GREET
+can you tell me a good joke?,JOKE
+when is it right now,TIME
+whats good,GREET
+is it sunny?,WEATHER
+hows the weather?,WEATHER
+give me the time please,TIME
+hows the weather today?,WEATHER
+do I need a sweater?,WEATHER
+id like a pizza please,PIZZA
+is it too early for me to sleep?,TIME
+what its like out today?,WEATHER
+what time is it jarvis?,TIME
+alright jarvis make me laugh,JOKE
+whats up my main man?,GREET
+can I have a pie?,PIZZA
+can I order some za for take out?,PIZZA
+"Jarvis, please tell me a joke.",JOKE
+do you know any jokes?,JOKE
+what is the hour?,TIME
+which time is it right now?,TIME
